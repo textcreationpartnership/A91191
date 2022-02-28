@@ -1,0 +1,2234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full vindication and ansvver of the XI. accused members; viz. Denzill Holles, Esq; Sir Philip Stapleton, Sir William Lewis, Sir John Clotworthy, Sir William Waller, Sir Iohn Maynard Kts Major Gen. Massey, Iohn Glynne Esq; Recorder of London. Walter Long Esquire Col. Edward Harley, Anthony Nichols Esq to a late printed pamphlet intituled, A particular charge or impeachment, in the name of Sir Thomas Fairfax and the army under his command; against the said members, by his appointment and the Councel of War.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91191</idno>
+            <idno type="STC">Wing P3968</idno>
+            <idno type="STC">Thomason E398_17</idno>
+            <idno type="STC">ESTC R201693</idno>
+            <idno type="EEBO-CITATION">99862192</idno>
+            <idno type="PROQUEST">99862192</idno>
+            <idno type="VID">114343</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114343)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full vindication and ansvver of the XI. accused members; viz. Denzill Holles, Esq; Sir Philip Stapleton, Sir William Lewis, Sir John Clotworthy, Sir William Waller, Sir Iohn Maynard Kts Major Gen. Massey, Iohn Glynne Esq; Recorder of London. Walter Long Esquire Col. Edward Harley, Anthony Nichols Esq to a late printed pamphlet intituled, A particular charge or impeachment, in the name of Sir Thomas Fairfax and the army under his command; against the said members, by his appointment and the Councel of War.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>42 [i.e. 43], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne by Wing.</note>
+                  <note>Page 43 is misnumbered 42.</note>
+                  <note>Annotation on Thomason copy: "July 15th".</note>
+                  <note>Imperfect: trimmed at foot, affecting imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holles, Denzil Holles, --  Baron, 1599-1680 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Expulsions --  Early works to 1800.</term>
+               <term>England and Wales. --  Army. --  Council. --  A particular charge or impeachment, in the name of His Excellency Sir Thomas Fairfax, and the army under his command --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114343:1" rendition="simple:additions"/>
+            <p>A full Vindication and
+ANSWER
+OF THE
+XI. Accuſed Members;
+<list>
+                  <item>VIZ.
+<list>
+                        <item>
+                           <hi>Denzill Holles,</hi> 
+                           <abbr>Eſq</abbr>
+                        </item>
+                        <item>Sir <hi>Philip Stapleton,</hi>
+                        </item>
+                        <item>Sir <hi>William Lewis,</hi>
+                        </item>
+                        <item>Sir <hi>John Clotworthy,</hi>
+                        </item>
+                        <item>Sir <hi>William Waller,</hi>
+                        </item>
+                        <item>Sir <hi>Iohn Maynard</hi> K<hi rend="sup">ts</hi>
+                        </item>
+                        <item>Major <hi>Gen. Maſsey,</hi>
+                        </item>
+                        <item>Iohn <hi>Glynne</hi> 
+                           <abbr>Eſq</abbr> Re<g ref="char:EOLhyphen"/>corder
+of London.</item>
+                        <item>
+                           <hi>Walter Long</hi> Eſquire</item>
+                        <item>Col. <hi>Edward Harley,</hi>
+                        </item>
+                        <item>Anthony Nichols <hi>Eſq</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+TO
+A late Printed Pamphlet intituled,
+A <hi>Particular Charge</hi> or <hi>Impeachment,</hi> in the
+Name of
+Sir Thomas Fairfax
+and the
+ARMY
+Under his Command; againſt the ſaid Members,
+By his Appointment and the Councel of WAR.</p>
+            <p>
+               <hi>LONDON<g ref="char:punc">▪</g>
+               </hi> Printed in the Year<g ref="char:punc">▪</g> 1647<g ref="char:punc">▪</g>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:114343:2"/>
+            <pb n="3" facs="tcp:114343:2"/>
+            <head>A ful Vindication &amp; Anſwer of the ac<g ref="char:EOLhyphen"/>cuſed
+Members of the Houſ of Com<g ref="char:EOLhyphen"/>mons
+to the late printed Charge, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough we be not ignorant of the
+<hi>illegallity</hi> and <hi>inſufficiency</hi> of that
+which is printed and publiſhed, for
+our <hi>Charge,</hi> ſeeming unto us for the
+greateſt part therof, rather an arraign<g ref="char:EOLhyphen"/>ment
+of the Proceedings of the <hi>Houſe</hi>
+of <hi>Commons,</hi> as ſuppoſing them to be acted and c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rried
+on in a <hi>deſign,</hi> by the <hi>intereſt</hi> and <hi>prevalency</hi> of the
+perſons charged; and that all the particulars men<g ref="char:EOLhyphen"/>tioned
+in this <hi>Charge,</hi> ſhould be by them committed
+and done in purſuance of that <hi>deſign;</hi> a thing ſo con<g ref="char:EOLhyphen"/>trary
+to the <hi>nature</hi> and derogatory to the <hi>honor</hi> of a
+<hi>free Parliament,</hi> and of a <hi>dangerous conſequence,</hi> to ren<g ref="char:EOLhyphen"/>der
+all <hi>ſuſpected</hi> and <hi>invalid,</hi> which this <hi>Parliament</hi>
+hath done or ſhal do; And that this <hi>Charge</hi> is brought
+in the <hi>name</hi> of an <hi>Army,</hi> and ſo is an <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccuſation <hi>en<g ref="char:EOLhyphen"/>forc'd
+by power,</hi> contrary to the Statute of <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. <hi>H. 6. c.</hi> 1.
+and no <hi>Accuſer</hi> appearing liable to ſatisfie the parties
+grieved for their <hi>dammages</hi> and <hi>expences,</hi> if the accu<g ref="char:EOLhyphen"/>ſation
+prove falſe and untrue (as this moſt certainly
+is) againſt the tenor of<note n="*" place="margin">13. E. 1. c. 13. 25. E. 3<g ref="char:punc">▪</g> c. 4. 27. E. 3. c. 18. 38. E. 3. c. 9. 17. R. 2. c. 6. 15. H. 6. c. 4.</note> 
+               <hi>ſeveral Statutes</hi> made in
+that behalf: Nor is it unknown, that many indirect
+and unjuſtifiable ways have been practiced in provi<g ref="char:EOLhyphen"/>ding
+the materials of this <hi>Charge,</hi> by tampering with
+perſons to become our accuſers, ſetting general in<g ref="char:EOLhyphen"/>quiſition<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+upon ſom<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us, who have <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aithfully ſerved our
+<pb n="4" facs="tcp:114343:3"/>
+Country (moſt of us, for the ſpace of neer ſeven years
+in that Houſe, and the reſt of us the time of our be<g ref="char:EOLhyphen"/>ing
+Members) to the waſting of our eſtates, prejudice
+of our healths, and many inconveniencies to our per<g ref="char:EOLhyphen"/>ſons
+by much travel and labour, without thoſe ad<g ref="char:EOLhyphen"/>vantages
+by way of gift or otherwiſe, which ſome of
+our <hi>Accuſers</hi> and divers others have had (for which
+we bear them no envy at all); Yet books have been
+ſearched; proceedings at Committees viewed, the
+Kings and <hi>Digby's</hi> Cabinets and private Papers, (of
+which our Accuſers had the maidenhead) ſearched
+for <hi>intelligence</hi> (yet not one ſyllable found <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt us
+in them;) Servants and Attendants examined to rake
+up matter againſt u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (an abſolute breach of <hi>Priviledg
+of Parliament,</hi> and not well conſiſting with the Li<g ref="char:EOLhyphen"/>berty
+of the Subject; Al this notwithſtanding, which
+we might very well take exceptions at: and beſides
+that we now lie under that great diſadvantage which
+the <hi>Philoſopher</hi> did, who diſputed with the <hi>Emperor,</hi>
+who <hi>commanded thirty Legions,</hi> ſo as all his <hi>Arguments</hi>
+were <hi>too weak,</hi> nor could he make uſe of that <hi>ſtrength
+of reaſon</hi> and <hi>truth</hi> which his cauſe did afford; yet we
+preſuming upon our innocency and the juſtice of
+thoſe who muſt judg us, but principally upon the
+goodnes of the great God, who is the <hi>ſupport</hi> &amp; <hi>avenger</hi>
+of the <hi>oppreſsed,</hi> and hath protected, for ſeveral years,
+ſome of us, when we have been the <hi>object</hi> of <hi>malice</hi> and
+<hi>power,</hi> and <hi>marks</hi> ſet up to be ſhot at for <hi>destruction;</hi>
+(to which purpoſe our actions, ſpeeches, our privateſt
+converfations have been (as narrowly as could be) ob<g ref="char:EOLhyphen"/>ſerved
+and inquired into, priſoners, diſcontented per<g ref="char:EOLhyphen"/>ſons,
+friends and foes examined upon us, all manner
+of perſons dealt with, that could be imagined willing
+to betray, and able to ſay any thing againſt us) yet
+<pb n="5" facs="tcp:114343:3"/>
+God having preſerved us, as he did <hi>David</hi> from the
+<hi>Bear</hi> and <hi>lion,</hi> which encouraged him, to promiſe
+himſelf likewiſe <hi>deliverance</hi> from the <hi>uncircumciſed
+Philistin,</hi> though ſo much more mighty then he;
+in like manner truſt for his aſſiſtance and protection
+at this time, and ſhal apply our ſelves to the particu<g ref="char:EOLhyphen"/>lars
+inſiſted upon and not formerly cleared, and diſ<g ref="char:EOLhyphen"/>charged
+upon <hi>a ſtrict examination and debate in Par<g ref="char:EOLhyphen"/>liament;</hi>
+and ſhal give (we doubt not) a ſatisfactory
+Account of our <hi>integrity</hi> and <hi>inn<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ency</hi> in them all, in
+order as they lie.</p>
+            <p>THe firſt <hi>Article</hi> of the <hi>Charge</hi> (which concerns <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+Mr. <hi>Holles</hi> ſingly) is partly of paſſages at
+<hi>Oxford</hi> about three years ſince, with which he can<g ref="char:EOLhyphen"/>not
+undertake to Charge his memory at this time,
+to give particular &amp; poſitive anſwers thereunto: He
+faith<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there is no new matter at all in this Charge, and
+that the whole buſineſs received a <hi>ful</hi> and <hi>perfect</hi> diſ<g ref="char:EOLhyphen"/>quiſition
+in the <hi>Houſe of Commons,</hi> in the moneth of
+<hi>July</hi> 1645. (now two years paſt,] when as neer as he
+could remember, of all done and ſaid by him concer<g ref="char:EOLhyphen"/>ning
+the particulars, then and now laid to his Charge,
+he gave an <hi>Account,</hi> together with another <hi>Gentleman</hi>
+(<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very worthy Member of the Houſe, and his fellow
+Commiſſioner at <hi>Oxford</hi>) who was then accuſed by
+the <hi>Lord Savil,</hi> to have joyned with <hi>Mr. Holles</hi> in all
+the parts of this Charge; and the <hi>Houſe</hi> was ſo fully
+ſatisfied of their good intentions in their Tranſaction
+of that buſineſs, that after a very long debate of ſeve<g ref="char:EOLhyphen"/>ral
+days, they <hi>ordered it upon the Queſtion,</hi> the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.
+day of that <hi>July. That the matter of the report</hi> (which
+was this whole buſineſs now endeavour'd to be revived
+<pb n="6" facs="tcp:114343:4"/>
+in this Charge) <hi>ſhould be totally and finally laid <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi>
+As for the particular Anſwers which he gave in the
+Vindication of his innocency, aſſerting the truth and
+diſcovering the malice and falſhood of his then accu<g ref="char:EOLhyphen"/>ſer,
+the Lord <hi>Savill,</hi> he refers himſelf to the <hi>publick
+Examinations, Proceedings and Reſolutions</hi> in the <hi>Houſe</hi>
+and what was then and there delivered both by
+him and the other Gentleman together with him at
+that time, moſt falſly accuſed by the Lord <hi>Savill<g ref="char:punc">▪</g>
+               </hi>
+who hath ſince ſo far bethought himſelf and teſtified
+a remorſe for the <hi>injury</hi> he then did unto theſe
+<hi>two Gentlemen,</hi> that it is not very long ſince he ſent a
+perſon of <hi>Honor,</hi> a <hi>Peer</hi> of the Realm, unto Mr<g ref="char:punc">▪</g> 
+               <hi>H<gap reason="illegible" resp="#TECH" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s,</hi>
+aſſuring him, <hi>that when his Compoſition was <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce made
+and perfected</hi> (for this was at the time that the Lo<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Savill</hi> was upon compounding for his <hi>Delinque<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>)
+he would then diſcover unto him</hi> (meaning to M. <hi>H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s)
+how that whole buſineſs was laid againſt him, and who th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y
+were that laid it; which when he knew, he would ſee<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+had no cauſe to be ſo angry with him; and therefore
+deſired him not to be againſt him in ſetting the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine for his
+Compoſition;</hi> adding withall, <hi>he durſt not diſcover <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t
+before, till he was out of their danger,</hi> (meaning thoſe
+who had laid that deſign againſt Mr <hi>Holles</hi>) for <hi>if they
+had the leaſt inckling of it, they would certainly r<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine
+him.</hi> This was the ſubſtance, and as neer as can be
+remembred, the very words which were delivered un<g ref="char:EOLhyphen"/>to
+Mr <hi>Holles</hi> by that Lord, in the name of the Lord
+<hi>Savil,</hi> and from him. But Mr<g ref="char:punc">▪</g> 
+               <hi>Holles</hi> was ſo far from
+being vindicative againſt thoſe who had expreſſed ſo
+much malice againſt him and endeavored his <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>;
+as he wholy put it out of his thoughts; never ſo much
+as ſending to the L. <hi>Savil</hi> after his Compoſition <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as
+<pb n="7" facs="tcp:114343:4"/>
+paſt; in the making whereof he did him no differ<g ref="char:EOLhyphen"/>vice
+at all, as in truth ſcorning it.</p>
+            <p>Another clauſe in the <hi>first Article,</hi> is concerning <hi>a
+Letter ſent from the Earl of Linſey unto Mr<g ref="char:punc">▪</g>
+               </hi> Holles,
+<hi>containing</hi> (as is layd in the Charge) <hi>ſome ſecret de<g ref="char:EOLhyphen"/>ſign:</hi>
+This was likewiſe examined in the Houſe, and
+by M. <hi>Holles</hi> himſelf firſt diſcovered unto the <hi>Houſe</hi>
+(contrary to what is in the printed Paper moſt falſly
+ſuggeſted;) and this done by him as ſoon as it came
+into his mind; for when he received it (which was
+very late one evening by a ſervant of the <hi>Lord Savils</hi>)
+he immediately after fel ſick, which made him clean
+forget it, nor doth he know what became of the Pa<g ref="char:EOLhyphen"/>per,
+whether or no he burnt it: the contents of it
+were only one line, a recommendation of the bearer
+the <hi>Lord Savil,</hi> the very words whereof were then
+freſh in his memory and by him repeated in the
+Houſe, when that ſatisfaction was given, as there paſ<g ref="char:EOLhyphen"/>ſed
+a <hi>V<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te</hi> the 19. <hi>of July, 1645. That the receiving
+of that note in the manner</hi> Mr. Holles <hi>did, was no hold<g ref="char:EOLhyphen"/>ing
+intelligence with the enemy.</hi> There is a third
+part of this firſt Article, of the <hi>Earl of Linſeys mo<g ref="char:EOLhyphen"/>ving
+for a Paſs for</hi> Mr. Holles <hi>to go to</hi> Oxford, and the
+<hi>Kings</hi> ſaying, <hi>he did him better ſervice in the Parlia<g ref="char:EOLhyphen"/>ment,
+then he co<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld do there:</hi> which as likewiſe by
+the <hi>Lord Savil</hi> enformed to the Committee appoin<g ref="char:EOLhyphen"/>ted
+for the examination of that buſineſs, and ſo repor<g ref="char:EOLhyphen"/>ted
+to the Houſe; which <hi>Mr. Holles</hi> then ſaid, and
+doth ſtil, that he knew nothing of, and was, and is
+moſt confident, that it is moſt falſe, for that he ne<g ref="char:EOLhyphen"/>ver
+ſignified any ſuch deſire to the <hi>Earl of Lindſey,</hi>
+or to any body elſe<g ref="char:punc">▪</g> nor ever had it in his thoughts.</p>
+            <p>
+               <pb n="8" facs="tcp:114343:5"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> TO the ſecond <hi>Article,</hi> which charges M. <hi>Hol<g ref="char:EOLhyphen"/>les</hi>
+and Sir <hi>Philip Stapleton</hi> joyntly, with
+<hi>ſending ſeveral meſsages to the</hi> Earl <hi>of</hi> Dorſet, <hi>and</hi>
+Lord Digby; and Sir <hi>Philip Stapleton</hi> ſingly, to <hi>have
+ſent one to the</hi> Earl <hi>of</hi> Dorſet; and then both Mr. <hi>Hol<g ref="char:EOLhyphen"/>lis</hi>
+and <hi>Sir Philip Stapleton</hi> to have <hi>joyned in drawing
+Propoſitions, and ſending them privately to his Maje<g ref="char:EOLhyphen"/>ſty;</hi>
+They both of them do ſay, for what concerns
+both, and Sir <hi>Philip Stapleton</hi> for what concerns him<g ref="char:EOLhyphen"/>ſelf
+(this being the only thing, in all the Charge
+that is ſingly objected againſt him) <hi>that the whole Ar<g ref="char:EOLhyphen"/>ticle
+is falſe, and untrue, in all, and in every part of
+it.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> THe third Article lays a Charge on the eleven Members
+joyntly, <hi>for meeting together at the</hi> Lady Carli<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les <hi>Lodg<g ref="char:EOLhyphen"/>ings
+in</hi> White-hall; <hi>and other places, with other diſaffected
+perſons: for holding correſpondency with the</hi> Queen, to <hi>put
+conditions upon the</hi> Parliament, <hi>to bring in the</hi> King <hi>upon their
+own Terms; and do ſuch other things in proſecution of their
+evil deſigns,</hi> as are in that <hi>Article</hi> mentioned. To all and every
+branch whereof, they do all joyntly, and each of them ſeverally
+give a ful, poſitive, and abſolute <hi>denyal;</hi> and affirm, <hi>that the
+whole Charge of that Article is ſcandalous, and falſe, in mat<g ref="char:EOLhyphen"/>ter
+and form.</hi> Moſt of them declare, that within the time
+there limited for thoſe meetings to have bin, and at no time be<g ref="char:EOLhyphen"/>fore
+or ſince, they have at all bin at her Ladiſhips lodgings: o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly
+<hi>Mr. Holles,</hi> Sir <hi>William Lewis,</hi> and Sir <hi>Philip Stapleton</hi> do
+acknowledg, that by her Ladiſhips favour, they have many
+times waited upon her both at her own Lodgings in <hi>Whitehall,</hi>
+and elſewhere, yet never to any ſuch inten<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and purpoſe, as <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+in the Article moſt falſly ſuggeſted, but only to pay unto her
+Ladiſhip that reſpect which is due unto her (a perſon of ſo
+great honor and deſert) from them, and in truth from all o<g ref="char:EOLhyphen"/>thers
+who are wel wiſhers to the welfare of this Kingdom.</p>
+            <p>
+               <pb n="9" facs="tcp:114343:5"/>
+And whereas it is ſaid, <hi>that they had a great power upon
+the Treaſure of this Kingdome, and thereby maintained the
+Queenes party, aſſured her a Penſion, and undertook to doe
+more for the King then the Army would doe,</hi> (who it ſeems
+are now ambitious in outſtripping all others in acting for
+his Majeſty;) It is very well known, that theſe perſons
+have not at all medled in money buſineſſes, have had leaſt
+to doe with diſpoſing of the publike Treaſure, and there<g ref="char:EOLhyphen"/>fore
+could not pleaſure others with it; as leaſt of all have
+they received any part of it for their private uſes, ſome
+of them having declared themſelves in the Houſe, when the
+Houſe was pleaſed to vote them conſiderable ſummes in
+recompence for their very great ſufferings for the Com<g ref="char:EOLhyphen"/>mon-wealth,<note place="margin">☜</note>
+that <hi>they would receive nothing till the Pub<g ref="char:EOLhyphen"/>like
+debts were paid:</hi> and none of them are the men that
+have growne great in theſe calamitous times, and been en<g ref="char:EOLhyphen"/>riched
+upon the ruine of others, nor preferred themſelves
+and their friends to higher fortunes then otherwiſe they
+could ever have aſpired unto. Therefore there is neither
+<hi>truth,</hi> nor <hi>ſemblance of truth,</hi> that they ſhould be guilty
+of engaging the Publike Treaſure and Stock, as the Arti<g ref="char:EOLhyphen"/>cle
+charges; nor would any have believed them if they
+had been ſo falſe and fooliſh as to have offered it. In con<g ref="char:EOLhyphen"/>cluſion
+they ſay, the whole charge in this Article is ut<g ref="char:EOLhyphen"/>terly
+falſe.</p>
+            <p>THe Fourth Article, which chargeth Mr. <hi>Holles,</hi> Sir <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>Philip Stapleton,</hi> Sir <hi>William Lewis,</hi> Sir <hi>Iohn Cloth<g ref="char:EOLhyphen"/>worthy,</hi>
+Sir <hi>William Waller,</hi> and Major-Generall <hi>Maſſey,</hi>
+to have <hi>within the ſpace of three moneths laſt paſt invited
+the Scots,</hi> and <hi>other forraine forces to enter this Kingdome;</hi>
+is by them averred to be utterly falſe; as likewiſe that
+part of it which charges Mr. <hi>Holles,</hi> to have <hi>ſent unto the
+Queene, to adviſe her to ſend the Prince into Scotland, to
+come into this Kingdome in the head of an Army;</hi> is by
+him declared to be moſt untrue, and a meere invention of
+malice againſt him. And in the laſt place, where it
+<pb n="10" facs="tcp:114343:6"/>
+chargeth the Eleven Members, <hi>to have liſted, or cauſed to
+be liſted divers Commanders and Souldiers, without am<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rity
+of Parliament, and to have encouraged Reform<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Of<g ref="char:EOLhyphen"/>ficers
+and Souldiers to gather together tumult<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſly at</hi> Weſt<g ref="char:EOLhyphen"/>minſter,
+<hi>to affright and aſſault the Members of Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+there is nothing of truth in it; and reflects more
+upon their Accuſers, then on them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> TO the Fifth Article, which charges Mr. <hi>Holles,</hi> Sir
+<hi>Philip Stapleton,</hi> and Mr. <hi>Glyn,</hi> to have <hi>bin obſtructers
+of Petitions to the Parliament for redreſſe of Publike grie<g ref="char:EOLhyphen"/>vances;</hi>
+They ſay, that what hath been done by them or
+any of them in matters of Petitions, was done in the
+Houſe of Commons, and onely there; where they have
+upon occaſion delivered their opinions concerning ſome
+<hi>ſeditio<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Petitions</hi> (which they ſuppoſe to be the Petitions
+intended by the Article;) And for what is ſaid of Mr. <hi>Hol<g ref="char:EOLhyphen"/>les</hi>
+and Sir <hi>Philip Stapletons</hi> affronting ſome Petitioners
+attending a Committee, as Major <hi>Tuleday,</hi> and commit<g ref="char:EOLhyphen"/>ting
+<hi>Nicholas Tew,</hi> without <hi>authority;</hi> They doe ſay, that
+<hi>Tuleday</hi> and <hi>Tew</hi> affronted the Commitee, that <hi>Tew</hi> en<g ref="char:EOLhyphen"/>deavored
+to raiſe a tumult in the Court <hi>of Requeſts,</hi> to the
+diſturbance and danger of the Committee; whereupon the
+Committee thought fit, to reſtraine him untill-the next
+morning, when they would acquaint the <hi>Houſe</hi> with it;
+That all both concerning him and <hi>Tuleday</hi> was reported
+unto the <hi>Houſe,</hi> and both of them were by the <hi>Houſe</hi>
+committed upon juſt reaſons, and afterwards both of them
+diſcharged or bayled; the one, upon the Motion of Mr.
+<hi>Holles,</hi> and the other of Sir <hi>Philip Stapleton.</hi> And wheras
+it is ſaid<g ref="char:punc">▪</g> 
+               <hi>that they were not permitted to ſpeake for them<g ref="char:EOLhyphen"/>ſelves;</hi>
+it is notoriouſly untrue; for <hi>Tuleday</hi> was heard
+at the Barre of the Houſe of Commons, and <hi>Tew</hi> was
+heard at the <hi>Committee,</hi> as long as he would ſpeak, untill
+he refuſed to anſwer any more queſtions, ſaying, <hi>he was
+not bound to accuſe himſelfe.</hi> In the laſt place where Ma<g ref="char:EOLhyphen"/>ſter
+<hi>Glyn<g ref="char:punc">▪</g>
+               </hi> is charged, <hi>to have committed</hi> Tew <hi>to Newgate,</hi>
+               <pb n="11" facs="tcp:114343:6"/>
+for <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other cauſe, but for having a Petition about him,
+which was to be preſented to the Houſe: Maſter <hi>Glyn</hi> d<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th
+anſwer, that being <hi>Recorder of London,</hi> and in the Com<g ref="char:EOLhyphen"/>miſſion
+of Peace, he knowes it not to be a Crime to ſend
+ſuch Perſons to the Gaole, as be brought before him for
+miſdemeanours; and may have Committed <hi>Tew,</hi> as he
+hath done many others; but he doth believe it to be a
+miſtake in the Accuſers, not remembring any ſuch thing:
+and doth boldly affirme, that if he did Commit him,
+it was not for the cauſe laid downe in the Article, but
+upon juſt grounds of Law.</p>
+            <p>TO the Sixth Article, touching the impriſonment of <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+Enſign <hi>Nichols</hi> by Sir <hi>William Waller,</hi> Sir <hi>John Clot<g ref="char:EOLhyphen"/>worthy,</hi>
+and Major Generall <hi>Maſſey;</hi> they Anſwer, That
+they being by<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inſtructions of the 9th of <hi>Aprill</hi> 1647.
+from the Committee at <hi>Darby</hi> Houſe, for the affaires of
+<hi>Ireland,</hi> authorized to draw off from the reſt of the
+Army, ſuch as ſhould accept of the Service of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi>
+and Quarter them in ſuch places as they ſhould
+think fit; upon the engagement of divers Officers
+of Colonell <hi>Lilburnes</hi> Regiment to goe for <hi>Ireland,</hi>
+gave Orders to Lievtenant Colonell <hi>Kempſon,</hi> to
+March with ſuch Souldiers of that Regiment, as ſhould
+engage for <hi>Ireland</hi> to <hi>Eveſham:</hi> And the Souldiers ſo
+engaging ſeparated from the Army; and on their
+March towards <hi>Eveſham;</hi> they on the 24 of <hi>Aprill</hi> 1647.
+at <hi>Saffron Walden,</hi> after the Generalls departure towards
+<hi>London,</hi> having received ſeverall informations, that En<g ref="char:EOLhyphen"/>ſign
+<hi>Nichols,</hi> (Enſigne to Captaine <hi>Dormer,</hi> one of the
+Captaines of the ſaid Regiment) repaired into the
+Quarters of thoſe Forces drawne off from the <hi>Army,</hi>
+in Order to the ſervice of <hi>Ireland,</hi> there diſſwading
+the Souldiers to goe for <hi>Ireland,</hi> encouraging them mu<g ref="char:EOLhyphen"/>tinouſly
+to demand their pay of the ſaid Captaine <hi>Dor<g ref="char:EOLhyphen"/>mer;</hi>
+and then by falſhoods and cunning practiſes en<g ref="char:EOLhyphen"/>deavouring
+to entiſe them back to the Army, under<g ref="char:EOLhyphen"/>valuing
+<pb n="12" facs="tcp:114343:7"/>
+thoſe that went for <hi>Ireland;</hi> and incenſing them
+againſt the Propoſitions of <hi>Parliament</hi> for that Ser<g ref="char:EOLhyphen"/>vice:
+And alſo reading to the ſaid Souldiers the Peti<g ref="char:EOLhyphen"/>tion
+of the Army, after the ſame was then lately pro<g ref="char:EOLhyphen"/>hibited
+by both Houſes of <hi>Parliament;</hi> and being cer<g ref="char:EOLhyphen"/>tified
+that for thoſe miſcarriages the ſaid Captain <hi>Dor<g ref="char:EOLhyphen"/>mer,</hi>
+had ſecured his perſon till further Order; The Lords
+and Commons who were Commiſſioners, did thereupon
+on the ſaid 22 of <hi>April,</hi> give directions to Lievtenant
+Colonell <hi>Kempſon</hi> to take Order, that the ſaid Enſigne
+<hi>Nichols</hi> ſhould be ſent up to <hi>London,</hi> with the firſt
+opportunity, to bee diſpoſed of by the Committee of
+Lords and Commons for the affaires of <hi>Ireland</hi> at <hi>Darby</hi>
+houſe, which was accordingly done; and upon the re<g ref="char:EOLhyphen"/>port
+of the buſineſſe, the ſaid Enſign was committed by
+Order of the Houſe of <hi>Commons,</hi> and the perſons that
+brought him rewarded for their ſervice therein. In all
+which proceedings they know of nothing done, but
+what their duty and Inſtructions (in relation to the Ser<g ref="char:EOLhyphen"/>vice
+of <hi>Ireland</hi>) required at their hands, being contrary
+neither to the Lawes of the Land nor <hi>Articles of Warre;</hi>
+but conceive upon theſe informations, (ready to be pro<g ref="char:EOLhyphen"/>duced
+and teſtified upon Oath) that the ſaid Enſign ac<g ref="char:EOLhyphen"/>cording
+the <hi>Law Marſhall,</hi> for his ſaid offences, <hi>deſer<g ref="char:EOLhyphen"/>ved
+death, for endeavouring a muteny as aboveſaid.</hi> And
+therefore there is no cauſe for the Army to complaine,
+in that the Houſe was ſo mercifull to him as to <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emit that
+puniſhment. Whereas it is charged, <hi>that the pockets of En<g ref="char:EOLhyphen"/>ſign</hi>
+Nichols <hi>were ſearched and divers papers taken from
+him, and that he was ſent a Priſoner to London from the
+Head-quarters, without the Authority or privity of the
+Generall:</hi> They ſay, that no Order was given by them for
+ſearching his pockets, or taking away his papers, and be<g ref="char:EOLhyphen"/>lieve
+no ſuch thing was done; That he was ſecured by
+Captaine <hi>Dormer,</hi> being found in the Quarters of thoſe
+Forces that were drawn off for <hi>Ireland,</hi> actually endea<g ref="char:EOLhyphen"/>vou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing
+to put the Souldiers in a diſtemper, and to
+withdraw them from that Service; and he was ſent from
+<pb n="13" facs="tcp:114343:7"/>
+thoſe Quarters (not the Head-Quarters, as is falſly ſug<g ref="char:EOLhyphen"/>geſted)
+to <hi>London;</hi> And for the privity or authority of
+the Generall, if he had been then preſent; they conceive
+their Authority from the Parliament on that behalfe,
+was ſufficient without the Generalls; and as the caſe
+ſtood, They thought it not reaſonable, to conſult the Army
+in the matter of diſturbing the <hi>Iriſh</hi> Service, when they
+had there found ſo little encouragement before.</p>
+            <p>TO the Seventh, Sir <hi>William Waller,</hi> Sir <hi>John Clot<g ref="char:EOLhyphen"/>worthy,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+and Colonell <hi>Harley,</hi> ſay; They are very
+ſenſible the particulars charged in the Seventh Article doe
+ſpecially relate to things ſaid or done in the <hi>Houſe of
+Commons,</hi> and ſo not liable to any Cenſure, having paſt
+the Approbation of that Houſe, which hath already ac<g ref="char:EOLhyphen"/>quitted
+them by their Votes of the 25 of <hi>June,</hi> from all
+<hi>things done and ſpoken by them in the Houſe,</hi> contained in this
+and the three enſuing Articles, and ſo ought not to have
+them recited in this Charge; yet to vindicate themſelves
+from the Scandall of Deſign and Combination againſt
+the Army, they ſhall give this true Account of what in<g ref="char:EOLhyphen"/>duced
+them to endeavour the ſuppreſſing of that Petition;
+Sir <hi>William Waller,</hi> and Sir <hi>John Clotworthy,</hi> being Com<g ref="char:EOLhyphen"/>miſſioners
+of Parliament with the Army for the Service
+of <hi>Ireland,</hi> and Colonell <hi>Harley</hi> being there to attend
+the ſame Service, <hi>March</hi> 22. 1646. at a Convention
+of Officers for the Service of <hi>Ireland</hi> at <hi>Walden,</hi> the
+Petition was produced, as the Petition of the Souldiers,
+to be approved by the Officers there; and was preſſed
+with ſuch eagerneſſe, that an Officer of quality offering
+ſome reaſons againſt it, was told, <hi>He deſerved not to live
+in an Army.</hi> They taking notice of the ſubtile and
+violent managing of that Petition, pretended to be the
+Petition of the Souldiers, but in truth framed then (as
+they can prove) <hi>by ſome Officers at Walden,</hi>
+               <note place="margin">☜</note> 
+               <hi>at a time
+when the Parliament only propoſed the Service of</hi> Ireland,
+<hi>and the Souldery had neither Diſpoſition nor Cauſe to Pati<g ref="char:EOLhyphen"/>tion;</hi>
+the Army (being well paid for ſeverall Moneths
+then paſt, ſpecially the Foot conſiſting much of Recruits)
+<pb n="14" facs="tcp:114343:8"/>
+had little cauſe to complaine for pay; thereupon they re<g ref="char:EOLhyphen"/>preſented
+this Information to the Generall, as that which
+required his care to ſuppreſſe, timely.</p>
+            <p>But after they returned to <hi>L<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndon,</hi> they received ſeverall
+Informations (of which they have good proofe) that
+the Petition was Agitated in ſeverall Regiments and pro<g ref="char:EOLhyphen"/>poſed
+by the Officers to their Souldiers: That ſome Of<g ref="char:EOLhyphen"/>ficers
+threatned <hi>that thoſe who did refuſe to ſubſcribe it ſhould
+be caſhiered;</hi> and Directions were given to return <hi>the
+ſubſcriptions to ſome principall Officers at the Head Quar<g ref="char:EOLhyphen"/>ters.</hi>
+What paſſed in the Houſe of Commons, they pre<g ref="char:EOLhyphen"/>ſume
+not to relate without the leave of the Houſe: But by
+theſe particulars (which are ready to be atteſted by per<g ref="char:EOLhyphen"/>ſons
+of worth) the Deſign of raiſing jealouſies between
+the <hi>Parliament</hi> and <hi>Army,</hi> will really fix upon thoſe
+who have fal<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly impoſed it on the accuſed Members, to
+carry on their own Deſigns, which are ſince more viſible.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> TO the Eighth Article, Whereas Colonell <hi>Harley</hi> is
+charged, That <hi>by Combination, hee produced to this
+Houſe a Letter which could not be made good;</hi> He af<g ref="char:EOLhyphen"/>firms,
+<hi>He did acquaint the Houſe with a Letter received
+as he was comming to the Houſe, and ſent to him from an
+Officer of worth in the Army, who was and is ready to ju<g ref="char:EOLhyphen"/>ſtifie
+the ſubſtance of the Letter to be most true;</hi> That
+Lievtenant<note n="a" place="margin">Since made a Colo<g ref="char:EOLhyphen"/>nell.</note> Colonell <hi>Pride</hi> drew Colonell <hi>Harley's</hi>
+Regiment to a Rendevouz, read the Petition in the Head
+of his Company<g ref="char:punc">▪</g> and that the Petition was then ſubſcribed
+by moſt of the Regiment, and that Lievtenant Col. <hi>Pride</hi>
+ſaid<note n="b" place="margin">This is Liberty of Conſcience ſo much profeſ<g ref="char:EOLhyphen"/>ſed and con<g ref="char:EOLhyphen"/>teſted for by the Army.</note>, <hi>ſuch as would not ſubſcribe the Petition, ſhould be
+caſhierd;</hi> That in this Colonell <hi>Harley</hi> did nothing
+but his Duty, and what the Houſe of Commons appro<g ref="char:EOLhyphen"/>ved
+by their publick thanks to him, and another wor<g ref="char:EOLhyphen"/>thy
+(Member an Officer of the Army,) who produced
+another Letter concerning the ſame buſineſſe. For that
+which is laid to Maſter <hi>Holles</hi> his Charge in this Article,
+concerning the drawing of that <hi>Declaration;</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e An<g ref="char:EOLhyphen"/>ſwers,
+That it was done in the Houſe, and the Houſe did
+allow of, paſſe it, and afterwards ſent it up to the Houſe
+<pb n="15" facs="tcp:114343:8"/>
+of <hi>Peeret,</hi> where it was likewiſe paſt. And that any ſhould
+queſtion it, being become and made the Act of both
+Houſes (and ſo a Charge rather againſt them then
+himſelfe) ſeemes ſtrange unto him, whoſe part in it was
+only to draw up that Declaration according to the ſenſe
+of the Houſe, in obedience to a generall call upon him
+for it, being exceedingly preſt and urged to doe it, when
+himſelf was very unwilling to take that task upon him.</p>
+            <p>TO the Ninth Article, Wherein it is ſaid, That Co<g ref="char:EOLhyphen"/>lonell <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+               <hi>Harley,</hi> Sir <hi>Jo. Clotworthy,</hi> Sir <hi>William Waller,</hi>
+and the ſaid other perſons did procure divers eminent and
+faithfull Officers of the Army, <hi>viz.</hi> Lievtenant Generall
+<hi>Hamond,</hi> Colonell <hi>Lilborn,</hi> Lievtenant Colonell <hi>Pride,</hi> and
+others, to be ſent for to appeare at the barre of the Houſe,
+againſt whom they could charge nothing at all; inſomuch
+that the Houſe thought fit immediately to diſcharge them.</p>
+            <p>It is Anſwered, That the ſaid Colonell <hi>Harley,</hi>
+Sir <hi>Jo. Clotworthy,</hi> and Sir <hi>William Waller,</hi> having been
+informed, that thoſe <hi>who ſtile themſelves, ſuch ominent
+and faithfull perſons of the Army,</hi> with ſome others, being
+very active in promoting the Petition mentioned in the
+former Articles, did in diſcharge of their duty, faithfully
+repreſent to the Houſe what they had heard; and whilſt
+the Houſe was in conſideration thereof, divers Letters were
+brought to ſeverall Members of the Houſe, from ſeverall
+parts of the Kingdome, declaring the apprehenſion which
+many faithfull Officers of the Army had taken up, if
+ſuch a Petition ſhould be permitted to goe on; As par<g ref="char:EOLhyphen"/>ticularly
+a Letter of the 28th of <hi>March</hi> la<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, directed
+to Colonell <hi>Roſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> an eminent Member of the Army,
+wherein it is deſired by ſuch as promoted this Petition;
+that the names of ſuch Officers and Souldiers as ſub<g ref="char:EOLhyphen"/>ſcribed
+the Petition, ſhould be ſent to Colonell <hi>Hamon<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+Lievtenant Generall <hi>Hamond,</hi> Commiſſary Generall <hi>Ire<g ref="char:EOLhyphen"/>ton,</hi>
+Colonell <hi>Lilborn,</hi> Lievtenant Colonell <hi>Grimes,</hi> or
+any three of them.</p>
+            <p>On the conſideration of what was mentioned in this
+<pb n="16" facs="tcp:114343:9"/>
+and other Letters, in confirmation of what was formerly
+preſented by <hi>the Gentlemen Articled against;</hi> the Houſe of
+<hi>Commons</hi> did ſend for ſeverall of the perſons before men<g ref="char:EOLhyphen"/>tioned:
+And as is conceived, had very good reaſon ſo to do.</p>
+            <p>And whereas it is ſaid, <hi>That a Committee was appoin<g ref="char:EOLhyphen"/>ted
+to examine the truth or falſhood of them;</hi> If by the
+<hi>Truth or FALSHOOD of them,</hi> is meant the Truth or
+Falſehood of the Perſons, ſtiled <hi>Divers eminent and faith<g ref="char:EOLhyphen"/>full
+Officers of the Army;</hi> Then how could they be ſaid
+to be imediately diſcharged, as ſuch, againſt whom no<g ref="char:EOLhyphen"/>thing
+could be charged or proved at all.</p>
+            <p>
+               <hi>The Gentlemen articled againſt</hi> do further ſay, that it is
+a very ill uſe, that is made of the Parliaments indulgence,
+not to proceed with ſuch ſeverity againſt thoſe Perſons con<g ref="char:EOLhyphen"/>vented
+before them (as aforeſaid) as to affirme, that there<g ref="char:EOLhyphen"/>fore,
+nothing can be ſaid againſt them: The like ill uſe
+was formerly made of the <hi>Parliaments</hi> ſo farre condi<g ref="char:EOLhyphen"/>ſcending
+to the deſires of another Paper, ſaid to come
+from the Army, concerning the Obliterating of the De<g ref="char:EOLhyphen"/>claration
+relating to the <hi>Petition,</hi> both which expreſſions
+might well in modeſty and duty have beene ſpared.</p>
+            <p>And whereas this Article is ſtuffed with great ſwelling
+words of vanity, as though <hi>the Gent. charged by the
+Article,</hi> were preſſed to produce their proofes and evi<g ref="char:EOLhyphen"/>dence,
+before the <hi>Committee</hi> (if they had any) It is an<g ref="char:EOLhyphen"/>ſwered,
+That the Perſons brought up to the Barre, were
+by their own confeſſion in this Article immediately diſ<g ref="char:EOLhyphen"/>charged.
+What need then was there, or to what purpoſe
+was it, to bring any ſuch Proofes againſt them, when <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+the clemency of the Houſe diſcharged them?</p>
+            <p>In a word, It is moſt demonſtrable, it was the <hi>Parli<g ref="char:EOLhyphen"/>aments
+indulgence,</hi> not the <hi>innocency</hi> to ſeverall, if not all,
+of thoſe who were queſtioned, which brought them o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f
+from Puniſhment; And it were to be wiſhed (in regard
+of theſe and their ſubſequent proceedings) that ſome pro<g ref="char:EOLhyphen"/>portion
+of <hi>Meeknes</hi> and <hi>Ingenuity</hi> towards the Houſes, did
+accompany ſo much profeſſed <hi>integrity,</hi> as is va<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted
+of, by the framers of this Article and Phamphlet.</p>
+            <p>
+               <pb n="17" facs="tcp:114343:9"/>
+TO the 10. <hi>Article</hi> which charges Mr<g ref="char:punc">▪</g> 
+               <hi>Hallis,</hi> Sir <hi>Philip Stapleton</hi>
+Sir <hi>Wil. Lewis,</hi> Sir <hi>Wil. Waller,</hi> Sir <hi>Iohn</hi> Glen<gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>; and
+Major Gen. <hi>Maſsie</hi> to have been inſtruments in <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> the
+reliefe of <hi>Ireland,</hi> and then relates ſome paſſages of <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the
+Houſe (which could not be diſcovered to the Army by way but
+<hi>Members</hi> contrar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to their Oath and dutyn an high violation of
+the Houſes Priviledges,) they ſay; that they have faithfully, cordi<g ref="char:EOLhyphen"/>ally,
+and induſtriouſly at all times, and upon all occaſions, to the
+beſt of their underſtandings promoted the ſervice of that <hi>poore
+bleeding Kingdome;</hi> That they did deſire ſupplyes might have
+gone in an intire Body out of the <hi>Army,</hi> and that as ſpeedily as
+poſſibly could be, ſo as ſome of them took the boldneſſe to move,
+that Sir <hi>Tho. Fairfax</hi> might have beene ſent thither<g ref="char:punc">▪</g> which not
+ſucceeding, yet the Houſe reſolving, <hi>eight Regiments of Foot,
+foure of Horſe, and one of Dragoones ſhould be ſent out of the Ar<g ref="char:EOLhyphen"/>my;</hi>
+they, as zealouſly as they could, endeavoured the putting of it
+in execution, and attended the Committe, to which it was refer<g ref="char:EOLhyphen"/>red
+conſtantly<g ref="char:punc">▪</g> and diligently<g ref="char:punc">▪</g> And they doubt not but the great
+God, [who will not be mocked] will Judge them according to
+their deſerts who have obſtructed it, by <hi>diſcount <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and of
+fronting them who offered to imbrace that ſervice</hi> at the conven<g ref="char:EOLhyphen"/>tion
+of Officers, <hi>March</hi> 22. 1646. By<note n="*" place="margin">See a Vin<g ref="char:EOLhyphen"/>dication of 167 Officers that are come off from the Army, and the Printed Petition of the Officers to Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax.</hi>
+               </note> Caſhiering, aſſaulting,
+<hi>and turning out of their quarters ſuch as declared their readineſſe
+for that ſervice,</hi> under the ignominious notion <hi>of the
+Army; and as men untrue to the Common intereſt of the Souldiers,</hi>
+&amp; by a poſitive <hi>Declaration, that whatſoever faithful Commander
+ſhould be appointed for the ſervice of Ireland, they muſt ſhew them<g ref="char:EOLhyphen"/>ſelves
+averſe to that ſervice as is expreſſed in a letter of the Agi<g ref="char:EOLhyphen"/>tators</hi>
+to Leiutenant Generall <hi>Cromwell:</hi> Dated Aprill 10. 1647.
+And in truth<g ref="char:punc">▪</g> Col. <hi>Robert Hamonds</hi> high and unreaſonable Propo<g ref="char:EOLhyphen"/>ſitions
+concerning the preſent ſervice of <hi>Ireland,</hi> viz. <hi>That the
+time of his imployment, and thoſe of this Army going with him in
+this ſervice, exceed not two or three moneths at the Furtheſt; That
+the forces going over with him be not obliged to any
+whatſoever, more then the poſſeſſing or defending of</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,
+<hi>That Col. Hammond</hi> [<hi>himſelf</hi>] <hi>may have the comm<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd of the Gar<g ref="char:EOLhyphen"/>riſon
+of</hi> Dublin <hi>and all the<g ref="char:punc">▪</g> forces in it during the ſaid <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:114343:10"/>
+That ſhipping be ready in the Harbour of</hi> Dublin victual<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+Parliaments charge with ſufficient Conv<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 14 day<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> before <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xpiration of the ſaid Terme to tranſport the ſaid forces back a<g ref="char:EOLhyphen"/>gaine
+for</hi> England: <hi>&amp;c. And that upon other termes then th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+doubts the number would not be conſiderable that would go <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+for that ſpace</hi>) clearly demonſtrates his and the Armies ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>range
+averſneſſe to <hi>Irelands</hi> reliefe; and that all they aymed at, was <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+to poſſeſſe themſelve<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Dublin</hi> for the preſent, for what <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+themſelves, and their proceedings ſince can beſt diſcover.</p>
+            <p>The Informations which they gave into the Houſe concerning
+the ingagement of divers Officers both of Horſe and Foot for the
+reliefe of <hi>Ireland,</hi> they avow to be true, but extreamly miſrepre<g ref="char:EOLhyphen"/>ſented
+in this Article. For whereas it is falſely ſuggeſted, <hi>th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+informed the Houſe that by their procurement there were fiftie
+Companies of Foot, and ten Troopes of Horſe of the Army <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+for that ſervice upon the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earmes propounded by the Parliament.</hi>
+The truth is, that divers Officers of Horſe, relating to ſo many
+Troopes, and ſome of the Officers of about 50. Companies of foot
+were by ſubſcription, Perſonall promiſe, or aſſurance fro<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+really and truly ingaged, as may appeare by the report ma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+the Houſe<g ref="char:punc">▪</g> unto which they referre themſelves. But afterwards
+many were drawne off againe by the Artifice of thoſe who (though
+they pretended <hi>Irelands</hi> reliefe) have their ends rather upon <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Confuſion of England</hi> then the <hi>reliefe of Ireland<g ref="char:punc">▪</g>
+               </hi> as their procee<g ref="char:EOLhyphen"/>dings
+manifeſt.</p>
+            <p>Concerning the ſubſcriptions of Col. <hi>Butler,</hi> Leiutenant Col.
+<hi>Iackeſon,</hi> Major <hi>Gooday,</hi> and others for that ſervice, ſuppoſed to be
+procured in deluſion of the Parliament, to miſlead it into a <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+imagination of a ſtrength out of the Army, which had nothing <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+reality in it, in regard thoſe Officers did then declare th<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r <gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>willingneſſe
+to go into <hi>Ireland</hi> upon any Tearms whatſoever; <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+we conceive that <hi>Declaration</hi> from the Officers bearing <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+the 22. of <hi>March</hi> will ſufficiently cleare both from any di<g ref="char:EOLhyphen"/>ſhonourable
+combination; wherein it will appeare that they <gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ged
+themſelves no further, <hi>then either to ingage in their owne Per<g ref="char:EOLhyphen"/>ſons
+or to improve their Intereſts in their reſpective <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+for, that ſervice;</hi> which laſt Obligation they have made goo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of Honour.</p>
+            <p>
+               <pb n="19" facs="tcp:114343:10"/>
+As for thoſe Officers of Col. <hi>Butlers</hi> and Sir <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Wallers</hi>
+Regiments, their names might be given in by thoſe who knew or
+might juſtly ſuppoſe that their Inclinations led them to <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbrace
+that ſervice, if their Friends were miſtaken in them or their minds
+ſi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce altered, we know not what Crime can be imp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted to any.</p>
+            <p>Lieutenant Col. <hi>Farrington</hi> was never preſented by them to
+the Houſe as a Lieutenant Colonell of the Army, and ingaging for
+himſelfe and his Regiment for <hi>Ireland,</hi> but only as a Gentleman
+that had formerly held the quality of Lieutenant Colonell, and yet
+did retaine a very great and deſerved intereſt in that Regiment,
+and with whom they conceived the Regiment would be very wil<g ref="char:EOLhyphen"/>ling
+to ingage.</p>
+            <p>TO the 11th. Which charges Sir <hi>Phil. Stapleton</hi> Mr <hi>Hollis,</hi> Sir
+<hi>Iohn Clotworthy,</hi> Sir <hi>Wil. Lewes,</hi> Major <hi>Generall Maſſie,</hi> Sir
+<hi>William Waller,</hi> and Mr <hi>Glyn,</hi> with commanding part of three
+Regiments, advanced for <hi>Ireland</hi> from <hi>Bromſgrave</hi> in <hi>Worceſt<g ref="char:EOLhyphen"/>erſhire,</hi>
+back to <hi>Reading,</hi> with an evill intent to dra<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forces toge<g ref="char:EOLhyphen"/>her
+for a new Warre, and this being done upon the <hi>Sabbath Day:</hi>
+They anſwer, that out of their Zea<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to promote the ſervice for
+<hi>Ireland,</hi> they met at all times, when they were ſummoned at
+<hi>Derby-Houſe,</hi> where the Councell <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e early and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, and ſome<g ref="char:EOLhyphen"/>times
+on the <hi>Sabbath day,</hi> being in truth a worke of the greateſt
+p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ety and mercy, which certainly was not for their eaſe, and they
+hope rather of merit, then to be reputed a crime: That that <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+was tranſacted at a full Committee, (whither upon the <hi>Sab<g ref="char:EOLhyphen"/>bath
+day</hi> or no they know not,) but they know, and affirme, that
+the reaſon why thoſe Regiments were ordered to come to <hi>Read<g ref="char:EOLhyphen"/>ing,</hi>
+was onely, that money might be ſent to them for their pay<g ref="char:punc">▪</g>
+The Officers repreſenting to the Committee the great neceſſities
+of the ſouldiers, and that where they were then <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+they did not know how to convey it <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hither with <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ety,
+in regard it muſt paſſe through the quarters of the army, who had
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great diſpleaſure to thoſe fo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces which were drawen off
+for <hi>Ireland<g ref="char:punc">▪</g>
+               </hi> and the Committee was the rather induced to it, be<g ref="char:EOLhyphen"/>cauſe
+they knew the money which was ſent to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+Regiment there quartered<g ref="char:punc">▪</g> when <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+is ordered to be brought back, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> violently <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> away
+<pb n="14" facs="tcp:114343:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:114343:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:114343:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:114343:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:114343:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:114343:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:114343:14"/>
+by the Souldiers from thoſe entruſted with that ſervice<g ref="char:punc">▪</g> and the
+Committee feared ſome ſuch attempt for the intercepting of this
+money, which occaſioned that calling back to <hi>Reading,</hi> and not an<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ſuch deſign, as is moſt falſely &amp; maliciouſly in the Article ſuggeſted.</p>
+            <p>
+               <hi>TO the 12th, Wherein Sir</hi> Io. Clotworthy <hi>is ſaid,</hi> to have conver<g ref="char:EOLhyphen"/>ted
+ſeverall great ſummes of money to his owne particuler
+uſe in the years 1642. 1643, 1644, <hi>and ſince,</hi> which by ſeverall.
+Orders of Parliament and of the Iriſh Committee were deſigned
+for the reliefe of <hi>Ireland:</hi>
+            </p>
+            <p>Firſt<g ref="char:punc">▪</g> He anſwereth, That he never received any money from
+the beginning of the Warre untill this day for the reliefe of <hi>Iu<g ref="char:EOLhyphen"/>land</hi>
+in Generall, but only for the particular charge he hath in that
+Kingdome, wherewith he was honoured in the beginning of the
+Warre by a ſpeciall order of Parliament.</p>
+            <p>And for the particular ſummes in that Article ſuggeſted to be
+received by him in money, He ſaith, that he never received any
+ſuch money, and was ſo farre from making any particular uſe of
+ſuch either money or Proviſions as were deſigned for ſupporting
+the Souldiers under his care, to their prejudice in the leaſt, degre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+that he hath dispurſed above three thouſand pounds out of his
+owne purſe, and by his credit, for their ſupport and reliefe more
+then was received.</p>
+            <p>He further ſaith that for the ſumme of 280 .l. in the Article men<g ref="char:EOLhyphen"/>tioned,
+by an accompt delivered to the <hi>Committee of Accompts</hi> in
+Iune 1644. he was ſo farre from intending the leaſt prejudice ei<g ref="char:EOLhyphen"/>ther
+to the State here, or that Kingdom of Ireland (amongſt other
+ſummes) he charged himſelfe with the ſaid 280 .l. for 20. Butts of
+Sack, which he ſhould have received from one <hi>Whitſcot;</hi> who fal<g ref="char:EOLhyphen"/>ling
+therein, the ſaid Sir <hi>Iohn</hi> converted the credit of the <hi>Ordi<g ref="char:EOLhyphen"/>nance</hi>
+for the ſaid 280 .l. into clothes for his Souldiers, as upon
+full examination and debate ſeverall yeares ſince had thereof be<g ref="char:EOLhyphen"/>fore
+the <hi>Committee of Accounts</hi> may appeare: And by the ſaid
+Accompt he is likewiſe charged with 300. l. in the Article mentio<g ref="char:EOLhyphen"/>ned
+for 120. paire of Piſtols the moſt whereof he exchanged [by or<g ref="char:EOLhyphen"/>der]
+out of the ſtoares of his Kingdome, for fire-locks, which he
+ſent over to the Souldiers of this Regiment, and the remainder
+of the ſaid Piſtolls were delivered to his Troope, and he never con<g ref="char:EOLhyphen"/>verted
+<pb n="21" facs="tcp:114343:14"/>
+any of the ſaid Piſtolls to his owne uſe, though he conceives
+he might have done, having given allowance for them on his Ac<g ref="char:EOLhyphen"/>compt;
+And for the money for the ſaid Piſtolls, as no part thereof
+ever came to his hands, ſo he conceives the ſame is yet due and un<g ref="char:EOLhyphen"/>Paid
+to one <hi>Abraham Vandenbe<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d,</hi> who provided the ſaid
+Piſtolls on the credit of the St<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te.</p>
+            <p>For the ſum of 700 l. for 2000. ſwords, he knoweth nothing
+thereof, nor ever received any ſuch ſumme, but acknowledgeth
+that he is charged by his ſaid accompt with 175. l. for his part of
+2000. ſwords, which as the former ſumme of 280 li. hath been
+layd out with much more of his own, for the ſervice of the ſtate; So
+as the ſaid Sir <hi>Iohn Clotworthy</hi> having prevented the informers by
+his accompt long ſince given in, and there remaining ſo great a ſum
+disburſed by him, over and above what he hath received, had he de<g ref="char:EOLhyphen"/>teyned
+any part towards his own diſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urſements [which he con<g ref="char:EOLhyphen"/>ceives
+he might juſtly have done,] yet could it not have been char<g ref="char:EOLhyphen"/>ged
+againſt him for ſo heyn<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s a crime, and that in proſecution
+of the deſigne in the generall charge mentioned, a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is imperti<g ref="char:EOLhyphen"/>nently
+layd downe in the ſaid Article.</p>
+            <p>And for the other divers ſinn<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of money ſuggeſted in general
+to have bin received from time to <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime by the ſaid Sir <hi>Iohn</hi> for the
+uſe of <hi>Ireland,</hi> which are alleadged, <hi>not to be imployedge by the ſe<g ref="char:EOLhyphen"/>veral
+orders was directed and intended;</hi> when he knowes the par<g ref="char:EOLhyphen"/>ticulars,
+he hopes to give a ſatisfactory anſwer therein; and wiſhes
+that ſome few of his many accuſers may be able to give <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s juſt an
+attempt for the many ſumm<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they have received in relition to
+their imployments, as he hath done, and is ready to doe for theſe
+few ſummes directed for his and his ſouldiers ſupport in that hard
+war of <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>And whereas by this article it is ſuggeſted,</hi> that the ſaid Sir Iohn
+Clotworthy hath within two yeares laſt paſt received ſeverall
+ſums of money, Armes and other proviſions for a Troop of Horſe
+which he pretended he had raiſed in Ireland.</p>
+            <p>He ſaith, that he never pretended to have raiſed any ſuch Troop;
+though he may with ſome confidence affirm, he hath to his great
+charge theſe 5. yeares paſt maintained a Troop of horſe which
+was formerly under the command of <hi>Captain Vp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and
+<pb n="22" facs="tcp:114343:15"/>
+after his death conferred on him, which Troop he hath <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+cruiſed ſince his command thereof, being about five yeares
+ſpace, during which time there was never received from the
+State in money above 7. weekes pay with ſome little proviſions
+of clothes and Armes, which he duely returned to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+ſaid Troope, with ſome addition of his owne, for their better
+ſupport in ſervice, judging it a moſt abhominable act, to re<g ref="char:EOLhyphen"/>taine
+any thing at all, (eſpecially of ſo little) deſigned for <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+neceſſi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous ſouldiers.</p>
+            <p>
+               <hi>And whereas by the latter part of the Article it is moſt <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+louſly ſuggeſted,</hi> that the ſaid <hi>Sir</hi> Iohn, Clotworthy for money and
+other rewardes, hath preferred <hi>Io. Davis</hi> and <hi>William Sommers,</hi> and
+others to be entruſted with the <hi>Iriſh</hi> affaires, who have kept correſ<g ref="char:EOLhyphen"/>pondency
+with the Enemy; and defrauded the ſtate of other gr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+ſums of money; and that he hath been privy to, and a ſharer is
+ſuch thei<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> actions;</p>
+            <p>He ſaith: that the ſaid charge is moſt falſe and untrue in all the
+parts thereof wherein he is concerned; and for the ſaid <hi>William<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+Sommers,</hi> he ſaith he never preferred him to be intruſted with any
+of the Iriſh affaires, nor knoweth of any imployment he ever <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+in that way [it being notoriouſly knowne he never had ſuc<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+imployment] ſince the Rebellion of Ireland began, ſo as he was not
+in any capacity to defraud the State.</p>
+            <p>The ſayd <hi>Sir Iohn Clotworthy</hi> further ſaith, that <hi>Iohn Dave<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+hath been contracted withall for great proportions of victu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+Armes, and Clothes for Ireland as a Merchant, wherein <hi>the Com<g ref="char:EOLhyphen"/>mittee
+of both Kingdomes</hi> and the <hi>Committee for the affaires of
+Ireland</hi> (the conſent of the houſes firſt had) have dealt with him
+after others refuſed ſuch contracts as he then accepted and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+performed, to moſt of which the ſaid <hi>Sir Iohn</hi> was not pri<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>,
+and no participant at all with the ſaid <hi>Iohn Davis</hi> in any of the
+particulars contracted for, as is now and hath been formerly <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+printed pampalets falſly ſuggeſted, But that the ſaid <hi>Iohn Dav<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi>
+was ever truſted with the affaires of <hi>Ireland</hi> other then as a Mer<g ref="char:EOLhyphen"/>chan
+[whereby he had the opportunity in performance of his con<g ref="char:EOLhyphen"/>tracts
+with the State to lay out his own money by <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+and get it againe as he can, whereof there may be now ſome
+<pb n="23" facs="tcp:114343:15"/>
+doubt] the ſaid Sir <hi>Iohn Clotworthy</hi> is totally ignorant.</p>
+            <p>TO the 13. Wherein (among other things) <hi>ſecret intelligence
+to have been held with the Lord of Ormond by Cipher, is layd to
+the charge of the ſaid Sir Io. Clotworthy,</hi> his anſwer is that he, to<g ref="char:EOLhyphen"/>gether
+with Sir <hi>Tho. Wharton, Sir Robert King, Sir Rob. Meredith
+and Richard Salway Eſquire,</hi> or any three of them, being appoin<g ref="char:EOLhyphen"/>ted
+Commiſſioners [but not joyntly as is pretended] to treat with
+the <hi>Lord of Ormond</hi> for the delivery of the <hi>Sword,</hi> the <hi>city of Dub<g ref="char:EOLhyphen"/>lin</hi>
+&amp;c. After four daies treaty according to their Inſtructions,
+[the treaty not taking effect] the Commiſſioners reſolved That
+three of them ſhould goe for <hi>Belfaſt,</hi> and two of them come to
+<hi>London,</hi> And whileſt the Commiſſioners were in preparation for
+their departure, upon ſeverall juſt and warrantable occaſions,
+they repaired joyntly and ſeverally to the Lord of <hi>Ormond,</hi> who
+ſeemed to be much troubled, that the treaty took no effect. pro<g ref="char:EOLhyphen"/>feſſing
+the only cauſe thereof to be, <hi>the want of the Kings aſſent,</hi>
+which he ſaid he hoped to gain, deſiring to have it ſo preſented to
+the Parlia &amp; that he might acquaint the Parliament and the Com<g ref="char:EOLhyphen"/>miſsioners
+then going for <hi>Be<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>faſt</hi> with the Kings Anſwer, and leſt
+letters ſhould be intercepted by the <hi>Rebels,</hi> there was a <hi>Cipher</hi> a<g ref="char:EOLhyphen"/>greed
+on, which was known to ſeverall of the Commiſsioners
+when it was delivered, and of which the ſaid <hi>Sir Iohn</hi> minded
+the other Commiſsioners at <hi>Belfaſt</hi> after their arrivall there, and
+before any thing was written by the ſame from the Lo. of <hi>Or<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mond;</hi>
+And about a fortnight afterwards, the Lord of <hi>Ormond</hi> by the
+meanes of one <hi>Captain Ward,</hi> conveyed a little open paper in cy<g ref="char:EOLhyphen"/>pher
+directed to the ſaid Sir <hi>Iohn Clotworthy,</hi> who aſſoon as he
+received it, did communicate the ſame to the reſt of the Commi<g ref="char:EOLhyphen"/>ſſioners,
+which being diſcyphered, there was thereby intimated,
+<hi>That he was more then hopefull they ſhould ſhortly beare from
+him to their content;</hi> To which the Commiſsioners returned an an<g ref="char:EOLhyphen"/>ſwer,
+<hi>That they ſhould be glad to beare of the content he was hope<g ref="char:EOLhyphen"/>full
+to give.</hi> With all which, and the other tranſactions of tha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+affair, the Committee of <hi>Der<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y-Houſe</hi> were made acquainted, and
+reported the ſame to both houſes before Sir <hi>Iohn Clotworthy</hi> came
+out of <hi>Ireland;</hi> And the Houſes having approved of the carriage
+and endeavours of the Commiſsioners upon the whole tranſaction
+<pb n="24" facs="tcp:114343:16"/>
+of the buſines, have long ſince ſo far owned them there <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>they have given thankes unto them for the ſame.</hi>
+            </p>
+            <p>This being the only particular wherein the ſaid Sir <hi>Iohn Clot<g ref="char:EOLhyphen"/>worthy</hi>
+is by this article charged to have held intelligence with
+the <hi>Lord of Ormond,</hi> and that being by the advice of the reſt of
+the Commiſſioners in manner as aforeſaid, and for ſo good an end,
+as the giving his Lordſhip an opportunity of new application to
+the Parliament for rendring to them the City of <hi>Dublin,</hi> and
+the other garriſons under his command, which hath ſince that <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+taken effect accordingly, to the exceeding great advantage and
+ſtrengthning this Kingdoms intereſt in <hi>Ireland;</hi> the ſaid <hi>Sir Iohn
+Clotworthy</hi> leaves it to the judgment of all equall minded men
+whether or no, there be any juſt cauſe to exhibit ſuch a th<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+againſt him for the ſame, eſpecially by an <hi>Army</hi> pretending ſuch
+good affections to <hi>Irelands</hi> welfare.</p>
+            <p>For the other part of the ſaid Article, <hi>concerning the ſaid <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+John Clotwortheys <hi>holding intelligence with the Lord Digby<g ref="char:punc">▪</g>
+               </hi>
+He directly denieth any ſuch thing, as being utterly falſe and un<g ref="char:EOLhyphen"/>true.
+For he never ſaw the ſaid <hi>Lord Digby</hi> theſe many yeare, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+one night accidentally, when [being laſt at <hi>Dublin</hi> with the other
+Commiſſioners afore ſaid] he was ſent to the Caſtle of <hi>Dub<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>
+by the ſaid Commiſſioners, concerning an Officer of Colo<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Moores,</hi> that had received an Injury by ſome perſons; that rel<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted
+to the Lord of <hi>Ormond:</hi> at which time the ſaid Lord <hi>Digby</hi>
+came into the roome where he was, but he had no diſcourſe <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+him, in private, nor at all, other then common talk (ſeverall perſon<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+being preſent.] Neither hath the ſaid Sir <hi>Iohn Clotworthy</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+the ſaid Lord <hi>Digby</hi> deſerted the Parliament ever exchanged let<g ref="char:EOLhyphen"/>ter,
+Meſſage, or word with him, directly or indirectly, otherwiſe<g ref="char:punc">▪</g>
+or at any other time, then is hereby declared.</p>
+            <p>And whereas by this Article it is charged, <hi>that in Order to <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+ſecret intelligence</hi> (of which he admires a whole <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+England ſhould have ſuch certain and publique Notice, as to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+it a poſitive charg &amp; undertake to prove it upon oath, were it<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cret as they charg it,) as the Article <hi>all <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>geth to have hi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hold by <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+ſaid Sir Io. Clotworthy with the ſaid Lo. Digby the Lo of <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:114343:16"/>
+and the ſaid Lord Digby, <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tely imployed <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> S<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gsby, who [as
+the article ſaith] pretends a deſigne about the Prince to c<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me into
+this Kingdome;</hi> the ſaid Sir <hi>Iohn Clotworthy</hi> utterly denieth to
+have had any thought of any ſuch deſigne, or any knowledg of
+the ſaid <hi>Slingsby</hi> or of his comeing into the kingdome, until he
+heard that one <hi>Slingsby</hi> [whom he yet knoweth not] had been
+examined before the Committee at <hi>Derby houſe.</hi> And the ſaid <hi>Sir
+Iohn</hi> preſumeth, he hath to the ſaid Committee confeſſed who im<g ref="char:EOLhyphen"/>ployed
+him, and to whom he was imployed here.</p>
+            <p>TO the 14. which charges Sir <hi>Iohn Clotworthy,</hi> Mr. <hi>H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lles</hi> and
+Sir <hi>Philip Stapleton,</hi> with obſtructing Articles exhibited againſt
+the Lord <hi>Inchequin,</hi> calling back the Lord <hi>Liſle</hi> from the govern<g ref="char:EOLhyphen"/>ment
+of <hi>Ireland,</hi> cauſing the command of the forces in that King<g ref="char:EOLhyphen"/>dom
+to be committed to the Lord <hi>Inchequin,</hi> he writing a letter
+to his Lordſhip, upon the receipt whereof he ſhould expreſs, he had
+direction to put out all thoſe who favoured <hi>Independents,</hi> They
+doe ſay they were ſo farr from keeping off proceeding, upon thoſe
+articles, that they furthered it all they could, and ſeveral times mo<g ref="char:EOLhyphen"/>ved
+it in the Houſe: deſirous to haue all cleared concerning the
+<hi>Lord Inchequin;</hi> whom as they beleeved to be a man of honour
+and fidelity, ſo, if upon examination of his actions he appeared to
+be other, they were reſolved to declare their ſenſe of him accor<g ref="char:EOLhyphen"/>dingly.
+As for what concernes the <hi>Lord Liſle,</hi> they ſay, his Lord<g ref="char:EOLhyphen"/>ſhips
+time expiring, which was but for one yeare, either for him
+or any elſe to continue in that command, the Parliament was plea<g ref="char:EOLhyphen"/>ſed
+to diſpoſe of the affaires of <hi>Ireland</hi> in an other way; in the a<g ref="char:EOLhyphen"/>gitation
+whereof in the Houſe, they went according to their Iudg<g ref="char:EOLhyphen"/>ments
+and conſciences, without reſpecting any perſon living. For
+the Command of the forces of that Kingdome (which as to the
+<hi>Lord Inchequin</hi> can onely be underſtood of <hi>Ma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter</hi>) they doe
+not know that ever any thing was here done in it at all, there ha<g ref="char:EOLhyphen"/>ving
+been no occaſion for it, as to their knowledg. And as for the
+Letter mentioned to have been written by them, <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any of them,
+<pb n="26" facs="tcp:114343:17"/>
+or from ſome other perſon by their or all of their direction; they
+ſay, as it is altogether uncertain and illegall, ſo it is a meere fiction
+(for they never did any ſuch thing,) and tends to draw the <hi>Odi<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+of <hi>Independents</hi> upon them; to whoſe advancement, both
+in <hi>Ixeland</hi> and elſewhere they feare they may prove <hi>obſtructive<g ref="char:punc">▪</g>
+               </hi> as
+this Article clearly inſinuates.</p>
+            <p>TO the 15. Sir <hi>Wil. Lewes</hi> and <hi>Mr. Glyn,</hi> ſay, that the Order o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+the 13 of Aprill in the Article mentioned (if there were any
+ſuch) relates to them only as Members of the Committe, for whom
+they intend not to anſwer: but in truth there was no ſuch order: it
+was only a report, not an order, and intended only for the county
+of <hi>Caermarthen,</hi> how ever it came to paſs the words were general:
+and that was done in order to be reported to the houſe, and accor<g ref="char:EOLhyphen"/>dingly
+was reported, and after repealed by the Committee as they
+were informed. And as for the publiſhing and ſending thereof unto
+every Committee in <hi>Wales,</hi> they know nothing thereof, neither
+was it done by their or either of their directions or conſents.</p>
+            <p>To the 16. Article, Sir <hi>William Lewes</hi> denyeth his protecting a<g ref="char:EOLhyphen"/>ny
+Delinquents in <hi>South-Wales,</hi> as is untruely aleadged.</p>
+            <p>And as for the <hi>Earl of Carbery,</hi> he did no more then move in
+the houſe of Commons, to make good what Major Generall <hi>L<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>horn</hi>
+had promiſed and preſſed for on his behalfe, by his letters to
+the <hi>Speaker,</hi> and Committee of both Kingdomes<g ref="char:punc">▪</g> repreſenting the
+advantages that came to the parliament by his conformity and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+it would further their ſervice to oblige him.</p>
+            <p>For Mr. <hi>Carve</hi> of <hi>Glammorgan</hi> &amp; <hi>Mr. Herbert</hi> of <hi>Breck<gap reason="illegible" resp="#TECH" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſhire</hi>
+after their long impriſonment, they being upon their Compo<g ref="char:EOLhyphen"/>ſitions
+at <hi>Goldſmiths Hall,</hi> he did but move the aſcertaining of
+their Fines according to the rules preſcribed to the <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+there, having obſerved, that delayes brought a prejudice both to
+the Parliament and the parties <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, by abuſing the one in
+<pb n="27" facs="tcp:114343:17"/>
+their authority, the other in their eſtates. And for Mr. <hi>Herber<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> af<g ref="char:EOLhyphen"/>ter
+his ſight of ſome high Articles drawn up againſt him by Mr.
+<hi>Rumſey,</hi> he never ſpake in his behalfe, &amp; he yet continues a priſo<g ref="char:EOLhyphen"/>ner
+in <hi>Ely</hi> Houſe. For Mr. <hi>Morgan</hi> of <hi>Bre<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kno<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kſhire,</hi> he is one
+the ſaid Sir <hi>William</hi> hath ever uſed with no more then a civillity
+ſutable to their being countrymen, and of many yeares acquain<g ref="char:EOLhyphen"/>tance,
+which he beleives no good man can looke on as an offence.
+For Mr. <hi>Gwyn</hi> &amp; Mr. <hi>Lewes</hi> of <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adno<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhire, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Committee in
+that county, and thoſe that by Major Generall <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cert<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fi<g ref="char:EOLhyphen"/>cate
+and Colonell <hi>Birth</hi> his publique teſtimony, had furthered the
+reducing of that county, he did but publiquely move in the houſe,
+that ſome diſputes concerning them, and ſome differences between
+them and others of the Committee for that county, might be
+referred to the Committee for <hi>Glouceſter</hi> 
+               <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Row;</hi> which he did out of his deſire to ſerve the Parliament
+by keeping peace in thoſe remote parts, and for no ends at
+all of his own.</p>
+            <p>And further faith, he was never ſo much as preſent at any
+debate concerning the ſequeſtration of any other perſon what<g ref="char:EOLhyphen"/>ever
+in either of the forementioned Counties, ſave theſe above<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+named; nor ever ſo much as motioned to any Member of either:
+Houſe, [Committee man, o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other,] either the remitting or favo<g ref="char:EOLhyphen"/>rable
+compounding with any, upon any Termes not warrantable
+by the rules preſcribed; or their compounding with any that were
+incapable thereof; nor did ever animate or incourage any <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+this unhappy difference to continue their fidelity to the Kings
+cauſe, promiſing them, th<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if they would ingage their Frien<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+with the King for him, he and his would be their Friends in the
+Parliament, (as is untruly fur<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſhed) looking upon that kind of
+conditioning, as a thing below the thoughts of a <hi>Gentleman.</hi>
+            </p>
+            <p>What the Delinquents in thoſe parts ſay of him, or how they
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon him, or how they or any others looke upon thoſe that
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rge him, or what ſhall be his or their lot at his Majeſt<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s com<g ref="char:EOLhyphen"/>ing
+to <hi>London,</hi> he is ignorant of; but hopes, that a <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+will diſcover both <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and them in their <gap reason="illegible" resp="#TECH" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:114343:18"/>
+every mans returne may be according to the ſingleneſſe and i<gap reason="illegible" resp="#TECH" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>grity
+of his affections to the publike peace and welfare of the
+<hi>Kingdome.</hi>
+            </p>
+            <p>And farther he ſaith, that there being an order for the nomination
+of Juſtices of the Peace for the County of <hi>Brecknock,</hi> he humbly
+named Mr <hi>Roger Vaughan</hi> [now high ſheriffe of that County] to be
+added to the Committee formerly named by the Houſe, Mr. <hi>Me<g ref="char:EOLhyphen"/>redith
+Lowis,</hi> Maſter <hi>George Parrey,</hi> and Mr. <hi>Edward William<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+as the fitteſt perſons he knew of to ſupply the neceſſitie there
+was of juſtice in that county: and although he cannot ſay that when
+the Kings forces had a power in thoſe parts, but that many of
+them may have done that which is not juſtifiable, yet for his
+Brother Maſter <hi>Thomas Lewes</hi> who was formerly one of the
+Committee, he is confident, his innocency is equall with any
+mans in that County, and his ſufferings as great as any of dou<g ref="char:EOLhyphen"/>ble
+his fortune inhabiting there; he having been carried priſoner
+by Sir <hi>William Vaughans</hi> command to <hi>Ludlow Caſtle</hi> with
+one Maſter <hi>Hugh Williams,</hi> where they continued till he layde
+down eightſcore pounds for their inlargement; And he can con<g ref="char:EOLhyphen"/>fidently
+affirme, that no man is left out of Commiſſion, that any
+honeſt man can pretend either by his eſtate, or affections to the
+Parliament to deſerve to be therein imployed: and he could hear<g ref="char:EOLhyphen"/>tily
+wiſh, that he or they that give information on this article,
+would have adviſed, who elſe ſhould have bin recommended for
+Committee-men or Juſtices. And for Maſter <hi>Edward William<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+being made <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollicitor, his Commiſſion was delivered upon certifi<g ref="char:EOLhyphen"/>cate
+from three of the foure Gentlemen who are the only per<g ref="char:EOLhyphen"/>ſons,
+reſident in the County, of thoſe that are named for the Com<g ref="char:EOLhyphen"/>mittee
+there: and he beleeves he hath been ſo carefull in his du<g ref="char:EOLhyphen"/>ty,
+that neither corruption nor remiſſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es can be juſtly charged or
+proved againſt him.</p>
+            <p>And the ſaid Sir <hi>William</hi> ſaith, that his ſonne was choſen <hi>Bur<g ref="char:EOLhyphen"/>geſs</hi>
+for the Burrough of <hi>Brecknock</hi> by the unanimous aſſent of
+the Burgeſſes, who adjudged him a fit perſon to ſerve for them<g ref="char:punc">▪</g> and
+his fitne<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for that place he deſires may be determined of, by th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe
+<pb n="29" facs="tcp:114343:18"/>
+amongſt whom he hath the honour to ſit, who have ſeen his de<g ref="char:EOLhyphen"/>meanour,
+and are the only proper Judges thereof: but that
+he kept the writ eight moneths in his Cuſtody in order there<g ref="char:EOLhyphen"/>to,
+is moſt untrue. For at his being in <hi>Brecknock-Shire</hi> in July
+1646. having carried the writ down with him, and finding at
+<hi>Ragland</hi> that <hi>Worceſter</hi> was then but upon delivery to the
+Parliament, and that the Commiſſioners of peace for that
+County were thoſe that contin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in their authority by
+their old Commiſſion, thought it then no fit time for a pub<g ref="char:EOLhyphen"/>lique
+meeting in that Town upon ſuch an occaſion, leſt ſome
+ill conſequence might have followed thereon, and thereupon
+at his returne acquainted Maſter <hi>Prideanx,</hi> one of the then
+Commiſſioners for the great Seale, therewith, and with his
+approbation returned the writ to Maſter <hi>Scoble</hi> the Regiſter,
+in whoſe cuſtody it continued, till he againe called for it ſome
+five weekes before the election.</p>
+            <p>TO the 17th. Article, the ſaid Sir <hi>Wil. Lewes</hi> acknowledgeth
+that by the ever Honourable, the Earl of <hi>Eſſex</hi> his Com<g ref="char:EOLhyphen"/>miſſion,
+and the approbation of both <hi>Houſes of Parliament,</hi>
+he was in the beginning of theſe troubles made Governour of
+<hi>Portſmouth,</hi> though not only without his deſire but againſt it,
+as it is well<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> known to Sir <hi>Iohn Evelyn,</hi> of Wilt<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Mer<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ber
+of the Honourable Houſe of Commons. That during his
+ſervice there, he received <hi>much of the publike Treaſure,</hi> for
+which he gave ſuch an Account, as that he had his diſcharge
+from the <hi>Committee for Accounts,</hi> bearing date the 15th. day
+of <hi>March,</hi> 1644. And the ſaid Committee comming to the
+Houſe of Commons with their <hi>Certificates</hi> of that Account
+and others, did there publikely atteſt it, <hi>to be both juſt and fr<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gall:</hi>
+whereupon the houſe was ſo favourable, as to vote on the
+3. of <hi>April. 1645. their approbation of his Account ſo preſen<g ref="char:EOLhyphen"/>ted
+unto them: and to Order, that the Committee of the Reve<g ref="char:EOLhyphen"/>nue
+<pb n="30" facs="tcp:114343:19"/>
+ſhould with their ſooneſt and beſt conveniency pay vote
+him the ſumme of</hi> 415. l 16. s 8. d. <hi>part of what remained d<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+unto him upon his ſaid Account,</hi> as appeared by the Certificate
+above mentioned: which evidently diſproves that part of the
+charge, which doth <hi>moſt vnjuſtly</hi> accuſe him for <hi>not account<g ref="char:EOLhyphen"/>ing,</hi>
+of which he beleeves his greateſt <hi>Accuſers</hi> are far more
+guilty then himſelf, ſince he never heard any Certificate made
+to the houſe of their account<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>And wheras he is likewiſe Charged, while he was <hi>Governor
+there frequently to have held correſpondency and intelligence
+with the Kings party about the delivery up of the ſayd Garri<g ref="char:EOLhyphen"/>ſon:</hi>
+ſome ſuch aſperſions having been very undeſervedly rayſed
+on him, during his Command there: the <hi>Committe of Lords
+and Commons for the ſafety, were</hi> pleaſed to write to him to
+ſome up to <hi>London,</hi> by their letter dated the 8 of June 1643.
+where the ſaid Sir <hi>William</hi> preſſing by his importunity the
+ſaid Committee and Earle of <hi>Eſſex,</hi> that <hi>they would Exa<g ref="char:EOLhyphen"/>mine
+what ever could be alleadged againſt him, to puniſh him
+if faulty, and right him if injured; upon the Earle of Eſſex</hi>
+his letter to the ſaid <hi>Committee</hi> after a full Examination
+of the buſineſſe the Committee by their letter gave his Lord
+ſhip this accompt following.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Excellency</salute>
+                  </opener>
+                  <p>VVE have examined and debated the bu<g ref="char:EOLhyphen"/>ſines
+concerning <hi>Sir William Lewes</hi>
+as your Lordſhip did deſire, and out of all thoſe jea<g ref="char:EOLhyphen"/>louſies
+and allegations, which have been offered a<g ref="char:EOLhyphen"/>gainſt
+him, there amounts NOTHING (as we can
+gather) which can derogate from his honor, or the pub<g ref="char:EOLhyphen"/>lique
+confidence repoſed in him in his command at
+<hi>Portſmouth;</hi> This account we render to your Ex<g ref="char:EOLhyphen"/>cellencie,
+<pb n="31" facs="tcp:114343:19"/>
+aſwell to anſwer that which hath been re<g ref="char:EOLhyphen"/>ferred
+to us by your Excellencies Letter, as that
+which is required from us by <hi>Sir William Lewis</hi>
+his <hi>innocency:</hi> this being the ſtate of this buſines,
+it is left in the hands of your Excellency to repaire
+this <hi>worthy Gentleman</hi> in what manner you ſhall
+pleaſe: And ſo wee take our leave and reſt.</p>
+                  <closer>
+                     <dateline>Weſtminſter <date>29. <hi>Iuly.</hi> 1643.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your Excellencies very affectio<g ref="char:EOLhyphen"/>nate
+friends and humble Ser<g ref="char:EOLhyphen"/>vants
+ſubſcribed.
+Bedford Pembrooke, &amp; Mountge<g ref="char:EOLhyphen"/>mery,</hi>
+B. <hi>Denbigh,</hi> W. <hi>Say &amp; Seale,</hi>
+                        <hi>Io. Pym,</hi> and others.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The which letter being carried to his Excellency, after
+his peruſall thereof, he wiſhed the ſaid Sir <hi>Wil. Lewes</hi> to re<g ref="char:EOLhyphen"/>paire
+again to <hi>Portſmouth</hi> and to take care thereof; but he ha<g ref="char:EOLhyphen"/>ving
+vindicated his Innocency, and to manifeſt how little he
+regarded either places of honour or gaine (which
+others aſpire to) deſired to be excuſed, and quitted the im<g ref="char:EOLhyphen"/>ployment.</p>
+            <p>Why or upon what grounds the ſaid Sir <hi>William</hi> (with divers
+other perſons, who faithfully ſerved the Parliament) was left
+out of the <hi>Proclamation mentioned,</hi> he knoweth not (being up
+wayes privy to their councels,) nor what his Majeſty was
+pleaſed to ſay of him; but this he knoweth, and its generally
+knowne to that part of <hi>Hampſhire</hi> where he lived, that about
+October 1643. there was plundered from him by the Kings par<g ref="char:EOLhyphen"/>ty
+to the value of between two and three thouſand pounds:
+<pb n="32" facs="tcp:114343:20"/>
+meane; whereof his lands being unſtocked; he made not three<g ref="char:EOLhyphen"/>pence
+of it in three yeares. For his eſtate in <hi>Brecknock-ſhire,</hi>
+which by the Charge is allowed to be worth about 600. l. <hi>per
+annum,</hi> it was not held worth ſequeſtring in thoſe parts, in re<g ref="char:EOLhyphen"/>gard
+of the taxes laid upon it: and during the time of the trou<g ref="char:EOLhyphen"/>bles
+he made little profit of his eſtate there or elſewhere. And
+as it is no argument, that ſome Malignants in armes againſt the
+Parliament did hold correſpondency with them, becauſe their
+eſtates in ſome places have not been yet ſequeſtred, through
+negligence of the officers, or want of evidence; ſo he pre<g ref="char:EOLhyphen"/>ſumes,
+it can be no proofe of his, complying with the King or
+his party, in the Iudgement of any indifferent perſon or of his
+Accuſe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s [who now profeſſe their correſpondency with
+his Majeſty without the houſes privity] in their late
+<hi>printed</hi>
+               <note n="*" place="margin">Of Inly. 8 1647.</note> 
+               <hi>letters</hi> to both Houſes, becauſe he was not ſequeſtred
+upon the ſame, or any ſuch like occaſion for ought he knowe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+the caſe (he beleeves) of ſome other wel-affected Members.</p>
+            <p>As for concerning Col. <hi>Price</hi> his eſtate, upon the ſad com<g ref="char:EOLhyphen"/>plaint
+of <hi>Mrs Price</hi> of her neceſſities, he wrote a letter to the
+Committee, only to allow unto her the 5th. <hi>part of her huſ<g ref="char:EOLhyphen"/>bands
+eſtate,</hi> according to the Ordinance of Parliament in that
+behalfe, and to reſtore her wearing apparrel which had bin ta<g ref="char:EOLhyphen"/>ken
+from her, (an extremity he had not heard of before uſed to
+any other, which he hops his accuſers) who now deſire iuſtice for
+and indulgence towards delinquents, which they charge as a
+crime in others] cannot diſlike But for the letting of Colo<g ref="char:EOLhyphen"/>nell
+<hi>Prices</hi> eſtate, he did not intermedle, therein, but beleeves
+the tenant that rents it at 50. l. <hi>per annum</hi> paye a full value for
+to the ſtate, conſidering it is charged with annuities of 120 l.
+<hi>per annum,</hi> iſſuing out of it; his Wives fift part, and all taxes
+and contributions.</p>
+            <p>
+               <pb n="33" facs="tcp:114343:20"/>
+And the ſaid Maſter Glyn, <hi>as to the charge of this Article, where<g ref="char:EOLhyphen"/>by
+he is charged to procure ſeverall perſons that have been Commiſſioners
+of Array in</hi> North-Wales, <hi>to be named in Commiſſions of Peace, and
+other Places of greater truſt and command:</hi> He ſaith, the Article gives
+not any inſtance of any ſuch perſon that he hath procured to
+be named a <hi>Justice of Peace,</hi> or any other Place of truſt or com<g ref="char:EOLhyphen"/>mand,
+except Col. <hi>Glyn</hi> (his Brother) made Governour of the
+Town and Caſtle of <hi>Carnarvon:</hi> And for the ſaid Col. <hi>Glyn,</hi> he
+avers, he was never any Col. in the King's Army, but conſtantly
+declared his affection to the Parliament, and for that cauſe he
+was in the beginning of the troubles, beſieged in his own houſe,
+with Canon planted againſt it, where he was taken priſoner,
+his Armes ſeized upon, himſelf charged with treaſon, and in<g ref="char:EOLhyphen"/>tended
+to be proceeded againſt at <hi>Shrewsbury,</hi> had not ſome
+perſons interpoſed and procured his enlargement, upon ſecuri<g ref="char:EOLhyphen"/>ty,
+that he ſhould not beare Armes for the Parliament; and as
+he hath ſuffered for his affection to the Parliament, ſo he hath
+advantagiouſly acted for them, by inviting Major-Gen. <hi>Mitton</hi>
+to come into <hi>North-Wales,</hi> joyning his forces with the ſaid Ma<g ref="char:EOLhyphen"/>jor-Gen.
+and relieving the Parliaments Forces with mony, by
+reaſon whereof, the County and Caſtle of <hi>Carnarvon</hi> was redu<g ref="char:EOLhyphen"/>ced
+to the Parliaments obedience, of whoſe eminent ſervices,
+the houſe of Commons took ſpeciall notice, in a letter writ<g ref="char:EOLhyphen"/>ten
+unto him; and for recompence of his ſufferings for the
+Parliament, and the great ſervice done for them, he was made
+Governour of <hi>Carnarvon,</hi> for the ſafety of thoſe parts, and en<g ref="char:EOLhyphen"/>couragement
+of the wel-affected there.</p>
+            <p>To the eighteenth Article,<note place="margin">18.</note> 
+               <hi>Whereby Maſter Glyn is charged to
+have taken rewards of ſeverall perſons for ſervice done them in the houſe,
+and in particular</hi> 100<hi rend="sup">li</hi> 
+               <hi>paid unto his Wife by the Drovers of</hi> Wales,
+<hi>for ſervice done them:</hi> he ſaith, that the ſame is a falſe and a ſlan<g ref="char:EOLhyphen"/>derous
+charge, and for the 100<hi rend="sup">li</hi> ſuppoſed to be given to his
+Wife (who is dead and cannot anſwer for her ſelfe) the ſame is
+untrue: for Maſter <hi>Glyn</hi> lent thoſe poor men 100<hi rend="sup">li</hi> out of his
+owne Money, to find them Bread, which was afterwards re<g ref="char:EOLhyphen"/>paid
+him, when they procured money upon the credit of the
+<hi>Exciſe,</hi> as will be juſtified by many perſons of quality; beſides
+which, there was no other 100<hi rend="sup">li</hi> that came to his Wives
+Hands.</p>
+            <p>
+               <pb n="34" facs="tcp:114343:21"/>
+To the nineteenth Article,<note place="margin">19.</note> Maſter <hi>Glyn</hi> anſwers;</p>
+            <p>Firſt, concerning Delinquents, that the charge is generall,
+and therefore he can make no particular anſwer, but generally
+not guilty.</p>
+            <p>Secondly, concerning the putting out of the <hi>Militia,</hi> that he
+was no way concerned in it; they were preſented by the Com<g ref="char:EOLhyphen"/>mon-Counſell,
+and choſen there when he was not preſent, and
+afterwards approved by both Houſes: and he cannot take up<g ref="char:EOLhyphen"/>on
+him to give reaſons to juſtifie the acts of both Houſes, or
+the Common-Counſell, who are onely impeached by this
+charge; and muſt plead not guilty of intermedling with put<g ref="char:EOLhyphen"/>ting
+in or putting out.</p>
+            <p>
+               <hi>To the twentieth Article,</hi>
+               <note place="margin">20.</note> 
+               <hi>where it is laid,</hi> That Sir <hi>Philip
+Stapleton,</hi> Master <hi>Holles,</hi> and Sir <hi>William Lewis,</hi> have by their
+power and countenance obſtructed juſtice in the cauſe between Alderma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Langham</hi> and Captaine <hi>Limery,</hi> and that of <hi>John Gunter.</hi>
+            </p>
+            <p>They anſwer, That Maſter <hi>Hollis</hi> and Sir <hi>Philip Stapleton</hi> be<g ref="char:EOLhyphen"/>ing
+one afternoon in the Court of <hi>Requeſt,</hi> heard that the Houſe
+of Peers were then to fit, which made them go to ſee what the
+occaſion was, and comming into the <hi>Lobby,</hi> found there the
+Earle of <hi>Rutland,</hi> who told them, their <hi>Houſe met about a great
+Buſineſſe betwixt</hi> Langham <hi>and</hi> Limery; and ſome diſcourſe paſ<g ref="char:EOLhyphen"/>ſed
+concerning it, when Maſter <hi>Hollis</hi> and Sir <hi>Philip Stapleton</hi>
+ſaid, They <hi>underſtood that the merits of the cauſe was not at all in
+queſtion, onely the entertaining of it upon an appeale, which they concel<g ref="char:EOLhyphen"/>ved
+was the common juſtice of the Kingdome, and not to be denied to any.</hi>
+Which having ſaid, they went away; nor was it done in ſecret,
+but ſpoken publickly, and in the hearing of ſome of the Coun<g ref="char:EOLhyphen"/>ſell
+for <hi>Limery:</hi> And they doe utterly deny the ſpeaking of any
+ſuch words as are alledged to be ſaid by them; for they were
+ſo farre from engaging their intereſt in it, as they doe not to
+this day know what the Lords did upon it: And Sir <hi>William
+Lewis,</hi> doth abſolutely deny his being there preſent as all, when
+any ſuch conference was with the Earle of <hi>Rutland:</hi> and can<g ref="char:EOLhyphen"/>not
+but obſerve, there ſhould be that ſignificancy attributed to
+h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s preſence and geſture, as thereby to diſcover his thoughts
+and inclinations, eſpecially when he was not there in perſon.
+<pb n="35" facs="tcp:114343:21"/>
+And as for the cauſe inſtanced concerning <hi>John Gu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> he
+conceives it to be a ſuit depending in Chancery betwixt the
+Father and Sonne, both neerly relating unto him, but no fur<g ref="char:EOLhyphen"/>ther
+proceeded in then to Bill and Anſwer, that he knowes of;
+and what influence his countenance could have ſo early dayes
+in the beginning of a ſuit, let all the world judge.</p>
+            <p>To the one and twentieth Article,<note place="margin">21.</note> which concernes Maſter
+<hi>Nichols</hi> onely, he ſaith,</p>
+            <p>That although his election was voted to be voyd by the
+Committee of Priviledges (whoſe meer votes exclude no Mem<g ref="char:EOLhyphen"/>ber
+from ſitting in the houſe) where no Witneſſes were heard
+on his behalfe, yet conceives his Election good, and hopes it
+will be thought ſo by the <hi>Houſe,</hi> when they h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar a true ſtate of
+the cauſe. And whereas they object, it <hi>hath layne four yeer<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unre<g ref="char:EOLhyphen"/>ported:</hi>
+Maſter <hi>Nichols</hi> appeals unto the Houſe, and that worthy
+Gentlemen in whoſe hand that report lay (being never proſe<g ref="char:EOLhyphen"/>cuted
+by his Competitor) whether he hath not endeavoured to
+have that report made, and the buſineſſe determined, and
+ſtill continues his humble requeſt to the Houſe for the ſpeedy
+determining of the ſame.</p>
+            <p>To the ſecond clauſe Mr <hi>Nichols</hi> anſwers, That he never uſed
+any threats, menaces or indirect practiſes, for the bringing in
+of any Members, either out of <hi>Cornwall,</hi> or any other County
+in the <hi>Weſt:</hi> And it is well knowne, that thoſe worthy Gen<g ref="char:EOLhyphen"/>tlemen
+there elected, and now excepted againſt, were fairly and
+duly choſen by their owne intereſt and publique demerits; and
+their unbyaſed integrity is ſuch, that they deteſt the maintain<g ref="char:EOLhyphen"/>ing
+of a Faction, or carrying on of any deſign other then the
+common good.</p>
+            <p>To the third clauſe of that Article, Maſter <hi>Nichols</hi> ſaith, That
+he continues in an Office of <hi>Master of the A<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nory</hi> in the <hi>Tower,</hi>
+wherein he hath faithfully ſerved the State for their advan<g ref="char:EOLhyphen"/>tage,
+and that ſince the <hi>Selfdenying Ordinance</hi> paſſed the Houſes,
+he never received any penny of his F<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e from the <hi>Committee of
+Revenue,</hi> but confeſſeth to have received a rent of thirty four
+pounds a yeer, or thereabouts, and a Fine for two houſes,
+which he is to be <gap reason="illegible" resp="#TECH" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>able for to the Parliament: And it is
+<pb n="36" facs="tcp:114343:22"/>
+well knowne, that Maſter <hi>Nichols</hi> loſt a farre better Office both
+for profit and eſteem, then this (the <hi>Customers place of</hi> Plymouth
+<hi>and of all the Ports in the County of</hi> Cornwal) for his fidelity to the
+Parliament, and hath received no reparation for the ſame, as
+divers others have had for their loſt Offices. Beſides, he hath
+been imployed in many long and chargeable Journeys, and
+hath expended divers great ſummes of money in them (which
+he hath borrowed of his friends) and hath yet had no ſatisfa<g ref="char:EOLhyphen"/>ction
+from the Parliament, in conſideration thereof, as ſome
+of his Accuſers have had for meaner ſervices.</p>
+            <p>To the two and twentieth,<note place="margin">22.</note> Maſter <hi>Nicholls</hi> ſaith, That nei<g ref="char:EOLhyphen"/>ther
+himſelf, nor any other for him, ever took any penny, di<g ref="char:EOLhyphen"/>rectly
+or indirectly, for any thing done in Parliament, or in
+any of their Committees (wherein he hath had the honour to
+ſerve them in the ſame) of greateſt truſt. And whereas he is
+charged, <hi>to bring</hi> Sir William Vuedall <hi>into the Houſe upon his com<g ref="char:EOLhyphen"/>ing
+from</hi> York, <hi>for the ſum of One hundred and fifty pounds;</hi> it is al<g ref="char:EOLhyphen"/>together
+falſe and ſcandalous. Upon Sir <hi>William Vuedalls</hi>
+return from <hi>York,</hi> he came into the Houſe, ſat there without
+any queſtion, and ſometime after had leave to retire himſelf in<g ref="char:EOLhyphen"/>to
+the Countrey; and at his return to <hi>London</hi> (neer two yeers
+after) the diſpute grew about his admittance into the Houſe,
+and he was admitted into it upon a ſolemn and ſerious debate,
+without the motion or procurement of Maſter <hi>Nicholls;</hi> which
+admiſſion, if undue, is a charge againſt the whole Houſe, not
+Maſter <hi>Nicolls.</hi> True it is, that when Sir <hi>William Vuedall</hi> was at
+<hi>York</hi> and Treaſurer of the Army there, Maſter <hi>Nicholls</hi> having an
+Aſſignment made him by his brother Captain <hi>Humphrey Nicolls,</hi>
+to receive an Arrear due to him for his Service in the North,
+that he writ to Sir <hi>William Vuedall</hi> to <hi>ſend him that money,</hi> where<g ref="char:EOLhyphen"/>upon
+Sir <hi>William Vuedall</hi> when he came to <hi>London,</hi> ſent him a
+ſum of money as an Arrear due to his brother, but whether ſo
+much as is ſpecified in the Article, he knows not, by reaſon his
+papers and accounts of that buſineſſe are not in Town.</p>
+            <p>As for Maſter <hi>Nicolls</hi> receiving of rewards, he challenges all
+his Accuſers (many of them having had occaſion to uſe his
+poor Service) and all others<g ref="char:punc">▪</g> to prove him guilty of receiving
+<pb n="37" facs="tcp:114343:22"/>
+the leaſt reward for any thing done by him in diſcharging of
+his publike truſt.</p>
+            <p>And whereas it is charged, <hi>That he diſcovered a deſign for the
+ſearching of</hi> Greenwich <hi>Houſe;</hi> He ſaith, That about midnight
+in <hi>Auguſt</hi> (as he takes it) 1642, there came an Officer with ſome
+Souldiers to his lodging, and brought with them a Warrant
+for him to ſign for the ſearching of <hi>Greenwich</hi> Houſe, which
+Warrant he figned; and by the ſame Officer he ſent three lines
+written in an open paper to a <hi>Noble Lady,</hi> who lodged in the
+Houſe, that ſhe ſhould not be frighted with the coming of
+Souldiers in ſuch an unſeaſonable hour; which Lady was no
+ſervant of the <hi>Queens,</hi> but one that had given a cleer demon<g ref="char:EOLhyphen"/>ſtration
+of her affection to the Publike, by a large voluntary
+contribution upon the <hi>Propoſitions of Money and Plate.</hi> So that he
+hopes this will not be thought a fault to ſend an open paper to
+a perſon of that quality, for ſuch purpoſe, by the ſame Officer
+that was to put the deſign in execution.</p>
+            <p>As to the three,<note place="margin">23, 24, 25.</note> four, and five and twentieth Articles, which
+waſte themſelves in a <hi>ſcandal</hi> touching Maſter <hi>Long</hi> alone (for to
+a printed imputation of <hi>cowardize, covetouſneſſe,</hi> and <hi>treachery,</hi>
+where no particular perſon appear<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to avouch the truth or give
+ſatisfaction for the falſhood of ſuch an Aſſertion, no better
+name can be given) he yet to give the world a taſte of what
+truth they may expect in the reſt, returns unto theſe three this
+Anſwer:</p>
+            <p>That howbeit his education had not much acquainted him
+with <hi>Military emploiments</hi> before the late unhappy Wars, (which
+he thinketh to be the caſe of many, who now reckon well of
+their abilities in that profeſſion) yet through the invitation
+of his <hi>Excellency</hi> the late Lord Generall, <hi>Earl of Eſſex,</hi> and the
+<hi>Committee</hi> of the ſafety of the Kingdom, who thought it of
+ſome importance at that time to intereſt perſons of eſtate and
+relations (though not bred Souldiers) in that emploiment, he
+did accept the command of a <hi>Troop of Horſe</hi> under his <hi>Excellency,</hi>
+the greateſt part whereof were raiſed by himſelf and his
+friends; and in the <hi>Head</hi> of that Troop he charged at <hi>Edge-hill,</hi>
+in the Regiment then under the command of Sir <hi>William Bel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore,</hi>
+               <pb n="38" facs="tcp:114343:23"/>
+which was the firſt that brake into the Enemy; in which
+charge he loſt his horſe, and being left diſmounted, did yet
+with his ſingle piſtoll in his hand give quarter to ſeverall of
+the Enemies, and was then by <hi>Captain Harecourt</hi> (Quarter ma<g ref="char:EOLhyphen"/>ſter
+of his Troop) remounted, continued out the Service of
+that day and the next, and was one of the laſt Troops that
+brought away the <hi>A<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>munition;</hi> a thing happily not known to
+them who gave the information for this <hi>Article,</hi> ſeeing it was
+the ill<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hap of ſome <hi>Commanders</hi> that day to make an over-haſty
+retreat, and of ſome others (of no little Eminency now) ne<g ref="char:EOLhyphen"/>ver
+to come there, (much leſſe to charge) though they quar<g ref="char:EOLhyphen"/>tered
+very neer the Field.</p>
+            <p>When the unexpected skirmiſh at <hi>Brainford</hi> happened, his
+Troop (as the greateſt part of the Army beſides) was diſper<g ref="char:EOLhyphen"/>ſed,
+but ſo ſoon as he could get it together, he went <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hither
+and ſtayed there till the buſineſſe was at an end; ſhortly after,
+his Troop being to march towards <hi>Briſtoll,</hi> where ſome of his
+fellow <hi>Captains</hi> (whoſe experience he thought as little as his
+own) receiving ſudden and great Commands, he declined that
+Service under them, and intended to return to his other in the
+<hi>Houſe of Commons:</hi> but ſome diſaffections and backwardneſſe to
+contribute to the publike Service appearing in ſome perſons of
+quality in the County of <hi>Eſſex,</hi> he was by <hi>Commiſſion from his Ex<g ref="char:EOLhyphen"/>cellency</hi>
+the Earl of <hi>Eſſex</hi> commanded thither, and author<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed
+with other Gentlemen of that and the Counties of <hi>Herrford</hi>
+and <hi>Bedford,</hi> to <hi>raiſe Horſe, Arms,</hi> &amp;c. upon <hi>ſuch as had not contri<g ref="char:EOLhyphen"/>buted,</hi>
+&amp;c. Touching which emploiment (without drawing the
+particulars into a long Diſcourſe) he ſaith, that he acted no<g ref="char:EOLhyphen"/>thing
+without the concurrence of two Gentlemen<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the leaſt
+of his fellow Commiſſioners: and therof and of what had been
+raiſed by them for the publike Service under that Authority,
+he (long before any <hi>Committee of Accompts</hi> ſetled) did publiſh<g ref="char:punc">▪</g>
+the particulars in print, and thereof did, immediately <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+that <hi>Committee</hi> ſetled, give and paſſe an <hi>Accompt</hi> upon Oath<g ref="char:punc">▪</g>
+which courſe had others taken (who are greater Accountan<gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+then hee) there would happily have been leſſe room for thi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Accuſation: The plundering and oppreſſion in the Article
+<pb n="39" facs="tcp:114343:23"/>
+mentioned, he <gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eckons as <hi>odious,</hi> as it is an <hi>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>true ſuggeſtion.</hi>
+            </p>
+            <p>As for Maſter <hi>T<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omas Manwood</hi> in the Article mentioned, he
+much doubteth whether there be any ſuch man reſiding in the
+County of <hi>Eſſex;</hi> ſure he is that no protection from the then
+Lord <hi>Generall his Excellency,</hi> was diſreſpected by him; and upon
+the <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt enquiry Maſter <hi>Long</hi> can make, the perſon intended by
+Maſter <hi>Thomas Manwood,</hi> is no way eminent for his good affecti<g ref="char:EOLhyphen"/>on,
+and what was done towards him was well warranted by
+the <hi>Commiſſion</hi> under which Maſter <hi>Long</hi> and thoſe other
+Gentlemen of that Countrey were employed, and nothing by
+countenance of that Authority was converted to Maſter <hi>Longs</hi>
+private advantage: and ſo little hath the humour of <hi>covetouſ<g ref="char:EOLhyphen"/>neſſe</hi>
+(with which the printed Articles charge him) prevailed,
+that there will be nothing found in his <hi>Accompts</hi> to be demand<g ref="char:EOLhyphen"/>ed
+for his <hi>Colonells</hi> pay; an Omiſſion of which he dares under<g ref="char:EOLhyphen"/>take
+to excuſe them that are moſt willing to accuſe him.</p>
+            <p>The <hi>Damages</hi> ſuſtained by Maſter <hi>Long</hi> (not pretended,<note place="margin">24.</note> but
+reall) mentioned in the four and twentieth Article (to be the
+inducement of that favour conferred upon him by the Chan<g ref="char:EOLhyphen"/>cery.
+Office) were under<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſiderations, and together with his
+four yeers impriſonment and ſufferance for his publick ſervice
+in former Parliaments, waighed by the wiſdome of that Houſe,
+and his capability to execute that place (uſually diſcharged by
+able Deputies, as now it is) determined by that judgement which
+he dares not, and thinks no men, or company of men, <hi>without
+thoſe Wals,</hi> ought to diſpute; and therefore to that quarrell
+(more againſt both houſes then himſelfe) he thinks himſelfe
+bound to give, and beleeves no wiſe honeſt Engliſh men
+will expect, or well receive any other anſwer. This onely he
+ſaith, that neither the eminency nor profit of<note n="¶" place="margin">Some of the<g ref="char:cmbAbbrStroke">̄</g> in the ſam Court as M. <hi>Spe<g ref="char:EOLunhyphen"/>ker,</hi> and his Son, M<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Smith</hi> &amp; M. <hi>Love.</hi>
+               </note> the Office can
+ſurely be the cauſe, that it onely of all the Offices and Benefits
+accepted from the Parliament, by other Members, ſhould be
+now ſubject to obſervation, and made a matter of charge.</p>
+            <p>In anſwer to the five &amp; twentieth (and perhaps for the weight
+of it,<note place="margin">25.</note> the laſt Article in that printed paper) he ſaith, That if
+any man hath (which is not knowne to him) ſeriouſly or in
+ſcorne, uſed that ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urrilous phraſe of <hi>Parliament-Di<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er</hi> to<g ref="char:EOLhyphen"/>wards
+<pb n="40" facs="tcp:114343:24"/>
+him, by reaſon of his more then ordinary diligence, in
+perſwading and preſſing his Fellow-Members of the honoura<g ref="char:EOLhyphen"/>ble
+Houſe of Commons (according to their truſt and duty) to
+remaine in that houſe or returne to it, when any thing hath
+been in debate, which in his apprehenſion and conſcience re<g ref="char:EOLhyphen"/>quired
+their judgment, wiſdome and ſuffrage there; he is con<g ref="char:EOLhyphen"/>tented
+to owne the Fact, and leave the abuſe to the author:
+any unlawfull carriage in that particular without the houſe,
+he doth deny; his demeanour within thoſe Wals, in that or
+ought elſe, no man without them ought to queſtion or con<g ref="char:EOLhyphen"/>troll,
+or he to give accompt of. And for a cloſe, he ſaith, that
+theſe his <hi>Accuſers</hi> who have againſt reaſon and juſtice, driven
+ſo many Members out of the houſe at once, deſerve the name of
+<note n="¶" place="margin">And Parli<g ref="char:EOLhyphen"/>ament-Ri<g ref="char:EOLhyphen"/>ders.</note> 
+               <hi>Parliament-Drivers,</hi> much more then he who defired onely to
+continue Members within the houſe, according to his own and
+their Dutie.</p>
+         </div>
+         <div type="conclusion">
+            <head>The Concluſion.</head>
+            <p>UPon the whole matter we doe ſay, that it is our
+<hi>Misfortune,</hi> not our <hi>Miſdoings,</hi> that we ſtand
+in this manner accuſed: Power may ſeize upon us and
+deſtroy us, but not Juſtice; we meane, the Juſtice of
+Man, for, and in reſpect of theſe pretended Crimes;
+not the Juſtice of God, which we tremble at, and
+ſubmit unto, and ſee it reach unto us for our ſins this
+Cup of perſecution and affliction by the hands of men,
+the men of the world, who are themſelves but the hand
+of God to correct his children for their good; their
+good in the end, though for the preſent it be grievous
+unto them, and befalls them many times occaſionally
+<pb n="41" facs="tcp:114343:24"/>
+and in the eye of men where they think themſelves to be
+leaſt deſerving it, to make them examine themſelves,
+and enquire where man cannot come, into their own
+hearts, to finde out the true cauſe which hath provoked
+their God to afflict them, and ſo come to the know<g ref="char:EOLhyphen"/>ledge
+of thoſe evils and repent of them, which other<g ref="char:EOLhyphen"/>wiſe
+would have lain undiſcovered and like a ſleeping
+Serpent awaken afterwards to do them a greater miſ<g ref="char:EOLhyphen"/>chief;
+which is at the preſent our caſe, and we truſt
+God will give us the grace to make this uſe of it. For
+certainly upon the ſtricteſt ſcrutiny of our conſciences,
+and enquiry into our paſt actions and intentions, we
+cannot finde we have deſerved this return from any that
+can pretend themſelves, <hi>to be well-wiſhers to the Par<g ref="char:EOLhyphen"/>liament
+and to the Peace of the Kingdom;</hi> We can
+ſpeak it for a truth, We are of thoſe who are <hi>peace<g ref="char:EOLhyphen"/>able
+and faithfull in Iſrael;</hi> We never ſought great
+things for our ſelve; We have mourned for the deſo<g ref="char:EOLhyphen"/>lations
+of this Kingdom (of three Kingdoms;) We
+ha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e endeavoured our utmoſt according to our ſeverall
+Talents, as it hath pleaſed God to enable us in our ſe<g ref="char:EOLhyphen"/>verall
+places and callings, as Members of the Parlia<g ref="char:EOLhyphen"/>ment,
+as Members of the Common-Wealth, to do
+all the good we could, to procure a ſettlement in
+Church and State, We have deſired a Peace, We
+have laboured for Peace, and willingly have never done
+the leaſt thing to keep it off; We have all of us ta<g ref="char:EOLhyphen"/>ken
+<hi>the Covenant,</hi> we dare not ſay we have kept it to
+Godward ſo well as we ſhould, but we will ſay, no
+man can lay the breach of any part of it, as to the
+<hi>King, Parliament,</hi> or <hi>Kingdom,</hi> to our Charge, nor
+we hope ever ſhall: Nothing in this World, that we
+<pb n="41" facs="tcp:114343:25"/>
+have more heartily deſired, then to ſee a happy and
+firm Reconciliation between the King and his People,
+him in his <hi>Throne,</hi> them in their <hi>Liberties,</hi> both of
+them encompaſſed with <hi>Righteouſneſſe</hi> and <hi>Peace,</hi> and
+glorying in the <hi>Parliament,</hi> as the <hi>foundation of both
+their happineſſes.</hi>
+            </p>
+            <p>Yet how we are aſperſed and miſrepreſented, let the
+World judge, by ſeverall <hi>Pamphlets</hi> and <hi>Papers</hi> con<g ref="char:EOLhyphen"/>cerning
+us, and by this printed <hi>Charge:</hi> We dare ap<g ref="char:EOLhyphen"/>peal
+even to the Conſciences of our <hi>Accuſers,</hi> if they
+would ſpeak out: Perhaps with ſome it is in truth our
+Crime, that they know us to be ſo as we are; per<g ref="char:EOLhyphen"/>haps
+we ſtand in the way and prevent ſome deſtructive
+deſignes: therefore we muſt be removed; and that we
+may ſo be, we muſt be repreſented to be <hi>Hinderers of
+Peace, Obſtructers of Juſtice, Invaders of the Liber<g ref="char:EOLhyphen"/>ty
+and Freedom of the Subject, Abuſers and Miſleaders
+of the Parliament;</hi> In ſumme, Whatſoever is amiſſe
+in the Kingdom, we are made the Cauſe, and muſt
+bear the blame of it.</p>
+            <p>
+               <hi>Chriſtianos ad ignem,</hi> What publike Calamity ſo<g ref="char:EOLhyphen"/>ever
+befell in the time of the <hi>Primitive Perſecutions,</hi>
+the poore Chriſtians were ſaid to be the Cauſe, and
+muſt be the expiatory Sacrifice.</p>
+            <p>But let men ſay what they will, <hi>Eliab</hi> was never
+the more the <hi>Troubler of Iſrael,</hi> becauſe he was ſo
+called.</p>
+            <p>We will ſay with <hi>Job,</hi> Our <hi>Witneſſe is in Heaven,
+and our Record is on high;</hi> This is our Comfort and
+our Confidence: We ſhall be acquit before the <hi>Tri<g ref="char:EOLhyphen"/>bunall
+of Heaven;</hi> and we truſt in the Divine Prote<g ref="char:EOLhyphen"/>ction
+to have our Deliverance and Juſtification even
+<pb n="42" facs="tcp:114343:25"/>
+here upon Earth by the Judgement of man, that is by
+the <hi>Juſtice of the Parliament,</hi> notwithſtanding the ma<g ref="char:EOLhyphen"/>lice
+of all our Enemies.</p>
+            <closer>
+               <signed>
+                  <hi>Denzill Hollis, Phil. Stapleton, William
+Lewis, John Clotworthy, William Waller,
+John Maynard, Edw. Maſſie, John Glyn,
+Walter Long, Edw. Harley, <hi>and</hi> Anth.
+Nicholl,</hi> Members of the Honourable
+Houſe of Commons.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
